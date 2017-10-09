@@ -1,0 +1,19 @@
+Mathematics 212BR
+Advanced Real Analysis (120929)
+Yum Tong Siu
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+Parabolic evolution equations and links to probability. Kolmogorov's forward and backward equations. Generators of Markov processes in Euclidean space. Estimates and well-posedness for variable coefficient PDE and integrodifferential equations. Probabilistic representations. Ergodic theory and long time estimates for solutions. If time permits, selected topics in nonlinear parabolic equations, introduction to stochastic control and viscosity solutions.
+Recommended Prep: Knowledge of the material in Mathematics 212a.
+Requirements: Prerequisite: Undergrads Require Mathematics 212A Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Mathematics 213

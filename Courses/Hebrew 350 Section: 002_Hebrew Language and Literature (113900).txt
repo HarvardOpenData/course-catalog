@@ -1,0 +1,53 @@
+Hebrew 350 Section: 002
+Hebrew Language and Literature (113900)
+Schedule: TBD Enrollment Cap: n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ None
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+  FAS: Course Level
+ Graduate Course
+         Schedule: TBD Enrollment Cap: n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Graduate Course
+  FAS Divisional Distribution
+ None
+         Schedule: TBD Enrollment Cap: n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Graduate Course
+         Jon Levenson
+2018 Spring (4 Credits)
+Instructor Permissions:
+Instructor
+Schedule: TBD Enrollment Cap: n/a
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Graduate Course
+         Hebrew 350 Section: 00Hebrew 350 Section: 002
+Hebrew Language and Literature (113900)
+Jon Levenson
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Additional Course Attributes:
+Subject: Aramaic
+Aramaic 

@@ -1,0 +1,20 @@
+Statistics 139
+Linear Models (110751)
+Kevin A. Rader
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0930 AM - 1059 AM n/a
+Statistics 111 and 139 or equivalent.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         An in-depth introduction to statistical methods with linear models and related methods. Topics include group comparisons (t-based methods, non-parametric methods, bootstrapping, analysis of variance), linear regression models and their extensions (ordinary least squares, ridge, LASSO, weighted least squares, multi-level models), model checking and refinement, model selection, cross-validation. The probabilistic basis of all methods will be emphasized.
+Class Notes: Fall: M., W., 9:30-11, and a weekly section to be arranged. Recommended Prep: Statistics 110 and Math 21a and 21b or equivalent
+Additional Course Attributes:
+Statistics 14

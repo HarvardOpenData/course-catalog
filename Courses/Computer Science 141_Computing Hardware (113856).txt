@@ -1,0 +1,18 @@
+Computer Science 141
+Computing Hardware (113856) HARVARD UNIVERSITY
+Formerly Computer Science 186
+Applied Math 21b, Computer Science 51 or equivalent, Statistics 110, and one of Computer Science 181, Computer Science 182, Economics 1011a, Economics 1052, or Economics 1056.
+  Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+          9/4/2017 0:39 AM
+Gu-Yeon Wei
+2017 Fall (4 Credits) Schedule: MW 1000 AM - 1129 AM Instructor Permissions: None Enrollment Cap: n/a
+Introduction to the design, structure, and operation of digital computers; logic circuits and digital electronics; computer arithmetic; computer architecture; and machine language programming. Consideration of the design interactions between hardware and software systems.
+Recommended Prep: Additional Course Attributes:
+Computer Science 14

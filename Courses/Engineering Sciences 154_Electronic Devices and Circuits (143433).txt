@@ -1,0 +1,11 @@
+Engineering Sciences 154
+Electronic Devices and Circuits (143433)
+Gu-Yeon Wei Marco Donato
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0100 PM - 0229 PM n/a
+Design of electronic analog circuits using semiconductor transistors. Topics include: operational amplifiers and op- amp circuits; time and frequency domain analysis of electric circuits (RC, RL, and RLC); basic semiconductor physics; PN junctions and diodes; bipolar junction transistors (BJT); Field-effect transistors (MOSFETs); bias circuits and current sources; single-ended, differential, single- and multi-stage MOSFET amplifiers; amplifier gain and bandwidth; frequency response, feedback, noise, and stability.
+Recommended Prep: Familiarity with differential equations and Fourier analysis (Applied Mathematics 21b or Mathematics 21b), familiarity with basic electricity
+Additional Course Attributes:
+Engineering Sciences 15

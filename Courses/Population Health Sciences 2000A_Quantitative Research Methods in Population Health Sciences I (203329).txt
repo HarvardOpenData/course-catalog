@@ -1,0 +1,33 @@
+Population Health Sciences 2000A
+Quantitative Research Methods in Population Health Sciences I (203329)
+Jarvis Chen
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+TBD n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ None
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Graduate Course
+         This is part one of a two part core year-long quantitative methods course for the Population Health Science PhD students at the School of Public Health. The course integrates methods and concepts from the various disciplines represented by Population Health Sciences to equip students with the methodological tools to conduct their own research as well as collaborate across fields of study and areas of specialization. The course will cover foundational statistical methods including linear and logistic regression, generalized linear models, survival analysis, longitudinal data analysis, and multilevel modeling. Discussion will be given to important concepts including study design, sampling, scientific inference, causal reasoning, measurement, and replication. The course will also provide an overview of a number of additional and sometimes more advanced methods including Bayesian statistics, big data methods, missing data, sensitivity analysis, propensity scores, time-varying exposures, interaction, mediation, instrumental variables, regression discontinuity designs, difference-in-difference methods, selection models, time series, bootstrapping, simulations, and meta-analysis. With these latter topics, emphasis will be placed on understanding the basic definitions, assumptions, and methodology. Students will be referred to further readings and courses to gain more detailed understanding. Various software resources will be used throughout the course. The course will prepare students to critically read through the empirical population health science literature, and to implement a number of different methods in their own research. Students are strongly encouraged to complete both parts of this course (parts A and B) within the same academic year.
+Course Notes:
+Requirements:
+This course is reserved for first-year Ph.D. students in Population Health Sciences. Population Health Sciences Ph.D. students are required to register for both semesters of this course and to achieve a final average grade of B or higher.
+Requisite: Course open to First Year GSAS (G1) Students Only
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+TR 1130 AM - 1259 PM n/a
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  Full Year Course
+ Divisible Course
+  FAS Divisional Distribution
+ None
+           Population Health Sciences 2000

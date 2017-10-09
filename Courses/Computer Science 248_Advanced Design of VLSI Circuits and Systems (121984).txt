@@ -1,0 +1,18 @@
+Computer Science 248
+Advanced Design of VLSI Circuits and Systems (121984)
+Gu-Yeon Wei
+2018 Spring (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+TR 1130 AM - 1259 PM 16
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         The contents and course requirements are similar to those of Computer Science 148, with the exception that students enrolled in Computer Science 248 are expected to do a substantial design project and paper discussions on advanced topics.
+Course Notes: Offered in alternate years.
+Recommended Prep: Computer Science 141 or permission of instructor.
+Additional Course Attributes:
+Computer Science 252

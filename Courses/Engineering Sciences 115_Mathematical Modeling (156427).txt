@@ -1,0 +1,47 @@
+Engineering Sciences 115
+Mathematical Modeling (156427)
+Zhiming Kuang
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0230 PM - 0359 PM n/a
+me (smartin@seas.harvard.edu) with your rationale for taking the course.• You must attend class on January 24 to be eligible for the lottery.• Students wishing to enroll in this course must enter the lottery by 8 am on Thursday, January 25, by adding the course to your Crimson Cart in my.harvard.edu and requesting enrollment permission.• You will be notified about whether you may enroll in this course by 5 pm on Thursday, January 25.• Students who are not selected by the lottery will be waitlisted.
+     Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Abstracting the essential components and mechanisms from a natural system to produce a mathematical model, which can be analyzed with a variety of formal mathematical methods, is perhaps the most important, but least understood, task in applied mathematics. This course approaches a number of problems without the prejudice of trying to apply a particular method of solution. Topics drawn from biology, economics, engineering, physical and social sciences.
+Course Notes:
+Recommended Prep:
+Requirements:
+Engineering Sciences 115 is also offered as Applied Mathematics 115. Students may not take both for credit. Undergraduate Engineering Students should enroll in Engineering Sciences 115.
+Applied Mathematics 105. Additional skills in analysis, algebra, probability, statistics and computer programming will increase the value of the course to students.
+Prerequisite: Must take APMTH 105 OR APMTH 108 OR APMTH 104 OR MATH 112 before taking ENG-SCI 115
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Engineering Sciences 11Engineering Sciences 115
+Mathematical Modeling (156427)
+Ariel Amir
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+Abstracting the essential components and mechanisms from a natural system to produce a mathematical model, which can be analyzed with a variety of formal mathematical methods, is perhaps the most important, but least understood, task in applied mathematics. This course approaches a number of problems without the prejudice of trying to apply a particular method of solution. Topics drawn from biology, economics, engineering, physical and social sciences.
+Course Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Engineering Sciences 12

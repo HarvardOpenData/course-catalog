@@ -1,0 +1,20 @@
+Mathematics 124
+Number Theory (111533)
+Ana Balibanu
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 0100 PM - 0229 PM n/a
+Prerequisite: Mathematics 122 or Mathematics 55a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Factorization and the primes; congruences; quadratic residues and reciprocity; continued fractions and approximations; Pell's equation; selected Diophantine equations; theory of integral quadratic forms.
+Recommended Prep:
+Additional Course Attributes:
+Mathematics 12

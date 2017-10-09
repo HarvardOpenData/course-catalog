@@ -1,0 +1,37 @@
+Life Sciences 50B
+Integrated Science (159707)
+Andrew W. Murray Michael Desai Cassandra Extavour Benjamin de Bivort Erel Levine
+Sean Eddy
+2018 Spring (8 Credits)
+Instructor Permissions:
+Instructor
+Schedule: Enrollment Cap:
+MTWRF 1000 AM - 1129 AM 25
+This is an intensive two-semester, double course that introduces the natural sciences as an integrated whole to students who have a very strong interest in science. Our goal is to teach students how to solve scientific problems by drawing methods and concepts from biology, chemistry, physics, and mathematics. The course uses examples from biology as an integrating theme, principles from physics and mathematics to reduce complex problems to simpler forms, and computer simulation to allow students to develop their intuition about the behavior of the dynamical systems that control the physical and biological universe. The course includes bootcamps to introduce students to biological experiments and the computer language, Matlab. Each semester will include a project lab, in which students will work in small teams to do original research on unsolved biological problems.
+Class Notes: Lab is currently scheduled for Tuesdays OR Thursdays. Life Sciences 50a and 50b, when taken together for a letter grade, fulfill the General Education
+requirements of Science of Living Systems, Science of the Physical
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+High school calculus.
+Prerequisite: Life Sciences 50A
+Universe, and Empirical and Mathematical Reasoning. LS 50a taken alone fulfills two of these requirements.
+  Attribute
+ Value(s)
+  Full Year Course
+ Divisible Course
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: General Education
+ Science of Living Systems
+  FAS: General Education
+ Science of the Physical Universe
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Undergraduate Students
+                  Life Sciences 10

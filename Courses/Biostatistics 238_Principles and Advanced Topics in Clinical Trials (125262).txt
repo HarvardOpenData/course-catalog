@@ -1,0 +1,30 @@
+Biostatistics 238
+Principles and Advanced Topics in Clinical Trials (125262)
+Offered jointly with the School of Public Health as BST235. A weekly 90-minute lab.
+Prerequisite: Biostatistics 231 AND Biostatistics 233
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Scott Evans
+2018 Spring (4 Credits)
+Instructor Permissions: None HARVARD UNIVERSITY
+Schedule: Enrollment Cap:
+MW 0200 PM - 0330 PM n/a
+9/4/2017 0:39 AM
+This course focuses on selected advanced topics in design, analysis, and interpretation of clinical trials, including study design; choice of endpoints (including surrogate endpoints); interim analyses and group sequential methods; subgroup analyses; and meta-analyses.
+Course Notes: Offered jointly with the School of Public Health as BST 214 & BST 238.
+Requirements: Prerequisite: BIST 230 AND BIST 231 (may be taken concurrently) Additional Course Attributes:
+  Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+          Biostatistics 24

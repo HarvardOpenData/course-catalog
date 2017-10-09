@@ -1,0 +1,20 @@
+Physics 262
+Statistical Physics (110526)
+David Nelson
+Physics 253a.
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 0130 PM - 0259 PM n/a
+Basic principles of statistical physics and thermodynamics, with applications including: the equilibrium properties of classical and quantum gases; phase diagrams, phase transitions and critical phenomena, as illustrated by the liquid-gas transition and simple magnetic models. Time permitting, introduction to Langevin dynamics and polymer physics.
+Course Notes:
+Recommended Prep: Additional Course Attributes:
+Physics 26

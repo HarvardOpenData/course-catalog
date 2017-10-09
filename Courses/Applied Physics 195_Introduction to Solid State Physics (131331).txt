@@ -1,0 +1,31 @@
+Applied Physics 195
+Introduction to Solid State Physics (131331)
+Donhee Ham
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+WF 0100 PM - 0229 PM n/a
+AP50b is designed specifically for engineering and physics majors and is equivalent in content and rigor to a standard introductory physics course for scientists and engineers (Physical Sciences 12a, Physics 15a), but focuses on the application of physics to real-world problems. Students must attend one 2-hour section on Friday. Section times will be assigned upon enrollment (9-11am, 11-1pm, 1-3pm, 3-5pm).
+A solid knowledge of multivariable calculus at the level of Applied Math 21a or Math 21a is required. Mathematics 21a can be taken concurrently.
+  Attribute
+ Value(s)
+  FAS: General Education
+ Science of the Physical Universe
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+            The physics of crystalline solids and their electric, magnetic, optical, and thermal properties. Designed as a first course in solid-state physics. Topics: free electron model; Drude model; the physics of crystal binding; crystal structure and vibration (phonons); electrons in solids (Bloch theorem) and electronic band structures; metals and insulators; semiconductors (and their applications in pn junctions and transistors); plasmonic excitations and screening; optical transitions; solid-state lasers; magnetism, spin waves, magnetic resonance, and spin-based devices; dielectrics and ferroelectrics; superconductivity, Josephson junctions, and superconducting circuits; electronic transport in low-dimensional systems, quantum Hall effect, and resonant tunneling devices.
+Course Notes: APPHY 195 is also offered as PHYSICS 195. Students may not take both for credit.
+Recommended Prep: Elementary quantum mechanics. Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Applied Physics 21

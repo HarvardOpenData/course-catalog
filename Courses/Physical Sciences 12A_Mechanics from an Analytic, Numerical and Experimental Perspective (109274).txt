@@ -1,0 +1,25 @@
+Physical Sciences 12A
+Mechanics from an Analytic, Numerical and Experimental Perspective (109274)
+Christopher Stubbs
+2018 Spring (4 Credits) Schedule: TR 0930 AM - 1059 AM Instructor Permissions: None Enrollment Cap: n/a
+This is the first term of a two-semester introductory physical science and engineering course sequence. The focus is on quantitative scientific reasoning, with the first term's exploration framed in the context of basic mechanics. Students will gain competence in both analytic (using pencil, paper and single-variable calculus) and numerical (using computer modeling) approaches to modeling simple physical systems and for the analysis of experimental data. Topics include kinematics, linear and rotational motion, forces, energy, collisions, gravitation, simple fluids and a brief introduction to waves. Examples are drawn from across the physical sciences and engineering. The course is aimed at first year students who have an interest in pursuing a concentration in the sciences and/or engineering. The course structure includes lecture, discussion and laboratory components.
+Course Notes:
+Additional Course Attributes:
+Physical Sciences 12a may not be taken for credit by students who have passed Physics 11a, 15a or 16. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.
+   Attribute
+ Value(s)
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS: General Education
+ Science of the Physical Universe
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  FAS: Core Curriculum
+ Science A
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+                 Physical Sciences 12

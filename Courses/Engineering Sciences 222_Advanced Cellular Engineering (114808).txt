@@ -1,0 +1,19 @@
+Engineering Sciences 222
+Advanced Cellular Engineering (114808)
+Neel Joshi
+  Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+          HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+2017 Fall (4 Credits) Schedule: TR 1130 AM - 1259 PM Instructor Permissions: Instructor Enrollment Cap: n/a
+This is a combined introductory graduate/upper-level undergraduate course that focuses on examining modern techniques for manipulating cellular behavior and the application of these techniques to problems in the biomedical and biotechnological arenas. Topics will include expanding the genetic code, genetic circuits, rewiring signaling pathways, controlling behavior through cell-matrix interactions, and directed differentiation of stem cells. Lectures will review fundamental concepts in cell biology before delving into topical examples from current literature. Students will work individually and in teams to determine the boundaries of existing cellular engineering techniques using scientific literature and propose original research to address unmet technological needs.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Engineering Sciences 22

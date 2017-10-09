@@ -1,0 +1,23 @@
+Earth & Planetary Sciences 243
+Geochemical and Cosmochemical Thermodynamics (118676)
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Stein Jacobsen
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+The laws of thermodynamics. Equilibrium and spontaneous transformations in systems of variable chemical composition. Components, phase rule and petrogenetic grids. Calculation of phase diagrams. Applications to cosmochemistry, igneous and metamorphic petrology, and environmental geochemistry.
+Course Notes: Given in alternate years.
+Recommended Prep: A course in college-level chemistry or equivalent; Mathematics 21a or
+Applied Mathematics 21a (may be taken concurrently).
+Additional Course Attributes:
+Earth & Planetary Sciences 24

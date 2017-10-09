@@ -1,0 +1,20 @@
+Mathematics 143R
+Set Theory (117626)
+Peter Koellner
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Knowledge of the material in Mathematics 123.
+Prerequisite: Mathematics 123
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Schedule: Enrollment Cap:
+WF 1200 PM - 0129 PM n/a
+An introduction to descriptive set theory and the study of definable sets of reals. In the context of definable sets of reals it is natural to replace the axiom of choice (AC) with the axiom of determinancy (AD)- the assertion that all infinite, two players perfect information games on integers are determined. Begins with basic framework: Polish spaces, hierarchy of Borel sets, hierarchy of projective sets. Consequences of AD: measurability, perfect set theorem, Baire category. Proof of Borel determinancy. If time permits, relationship with large cardinals: analytic determinancy and measurable cardinals.
+Recommended Prep: Additional Course Attributes:
+Mathematics 145

@@ -1,0 +1,33 @@
+Computer Science 124
+Data Structures and Algorithms (115384)
+Jelani Nelson Salil Vadhan
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1130 AM - 1259 PM n/a
+Students may not receive credit for both CS 121 and CS 125.
+Experience in formal mathematics at the level of CS 20. A "Homework Zero" will be posted on the course website <a href="http://www.boazbarak.org/cs121/">cs121.boazbarak.org</a> by July 1st. It is highly recommended that students complete it before the first lecture.
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Design and analysis of efficient algorithms and data structures. Algorithm design methods, graph algorithms, approximation algorithms, and randomized algorithms are covered.
+Course Notes:
+Recommended Prep: Additional Course Attributes:
+Starting in the spring of 2013, Computer Science 124 will assume background from Computer Science 20. Students will not receive credit for both CS 124 and CS 125.
+Computer Science 50 or equivalent; Computer Science 51 is helpful.
+  Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+ Computer Science 12

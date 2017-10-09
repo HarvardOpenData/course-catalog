@@ -1,0 +1,16 @@
+Applied Computation 298R
+Interdisciplinary Seminar in Computational Science & Engineering (109339)
+Daniel Weinstock
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+F 1200 PM - 0259 PM n/a
+  Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+          This course, centered on the Institute for Applied Computation Science (IACS) seminar series, will provide broad exposure to cutting-edge topics, applications, and unifying concepts in Computational Science &Engineering. Students will read, present and discuss journal articles related to IACS talks, attend the seminars and meet with visiting speakers. Possible topics to be covered include scientific visualization, computational approaches to disease, mathematical neuroscience, computational archeology, and computational finance.
+Additional Course Attributes:
+Applied Computation 299

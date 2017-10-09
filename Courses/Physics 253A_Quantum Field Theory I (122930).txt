@@ -1,0 +1,28 @@
+Physics 253A
+Quantum Field Theory I (122930)
+Matthew Reece
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1130 AM - 1259 PM n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Introduction to relativistic quantum field theory. This course covers quantum electrodynamics. Topics include canonical quantization, Feynman diagrams, spinors, gauge invariance, path integrals, ultraviolet and infrared divergences, renormalization and applications to the quantum theory of the weak and gravitational forces.
+Recommended Prep: Physics 143a, b or equivalents. Additional Course Attributes:
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+       HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+   FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  Physics 253

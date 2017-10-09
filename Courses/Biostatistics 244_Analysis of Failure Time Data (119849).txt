@@ -1,0 +1,22 @@
+Biostatistics 244
+Analysis of Failure Time Data (119849)
+L. Wei
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0945 AM - 1115 AM n/a
+Discusses the theoretical basis of concepts and methodologies associated with survival data and censoring, nonparametric tests, and competing risk models. Much of the theory is developed using counting processes and martingale methods.
+Course Notes: Class Notes:
+Requirements:
+Additional Course Attributes:
+Offered jointly with the School of Public Health as BST 244. Weekly 90-minute lab.
+Prerequisite: Biostatistics 233 AND Biostatistics 250
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Biostatistics 245 Section: 

@@ -1,0 +1,19 @@
+Statistics 213
+Statistical Inference II (159802)
+Pierre Jacob
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0230 PM - 0359 PM n/a
+Please refer to this page for the course site: http://www- math.mit.edu/~dws/212/
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Stat 213 will build upon Stat 211 and give some tools to study and validate statistical methods (asymptotic statistics, well-specified and mis-specified models, model comparison, cross-validation, bootstrap). These concepts will be discussed in the context of advanced statistical models: non-parametric regression, regularized regression, latent variable and hidden Markov models. Numerical methods required to put such models into practice will be discussed.
+Recommended Prep: Stat 210, 211, 212( stat 210b) Additional Course Attributes:
+Statistics 21

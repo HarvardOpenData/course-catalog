@@ -1,0 +1,10 @@
+Algebra II: Theory of Rings and Fields (116503)
+Mark Kisin
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 1200 PM - 1259 PM n/a
+Rings and modules. Polynomial rings. Field extensions and the basic theorems of Galois theory. Structure theorems for modules.
+Requirements:
+Additional Course Attributes:
+Mathematics 12

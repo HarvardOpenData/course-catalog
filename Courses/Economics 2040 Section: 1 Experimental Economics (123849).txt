@@ -1,0 +1,17 @@
+Economics 2040 Section: 1 Experimental Economics (123849)
+Benjamin Enke
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+T 0900 AM - 1159 AM 48
+This course provides an introduction to experimental methods and their applications in economics. We will focus on (i) the use of lab experiments in establishing causal effects, testing models, and illuminating mechanisms and (ii) the measurement of preference parameters and behavioral traits in lab-in-the-field settings. We will illustrate both methods through papers in behavioral, cultural and development economics. Topics include bounded rationality in belief formation and choice, motivated reasoning, moral wiggling, gender, the social or historical determinants of preferences, and the explanatory power of behavioral traits for field behaviors. We will cover methodological topics including the relationship between experiments and theory, cross-cultural experiments, internet experiments, and surveys. Students will become acquainted with the process of designing an experiment, and class discussions will place heavy emphasis on the development of early-stage research ideas. The course is intended not just for those with an interest in behavioral and experimental economics per se, but also for those who wish to measure behavioral parameters in non-lab settings.
+Course Notes: Open to undergraduates with permission of the instructor. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Social Sciences
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Economics 2050 Section: 

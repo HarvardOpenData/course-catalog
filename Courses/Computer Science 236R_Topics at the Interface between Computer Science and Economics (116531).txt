@@ -1,0 +1,16 @@
+Computer Science 236R
+Topics at the Interface between Computer Science and Economics (116531)
+Yiling Chen
+2018 Spring (4 Credits) Schedule: MW 0100 PM - 0229 PM Instructor Permissions: Instructor Enrollment Cap: 20
+Interplay between computation and economics. Topics in electronic commerce, computational social choice, computational mechanism design, peer production, prediction markets and reputation systems. Readings in AI, theoretical CS, multi-agent systems, economic theory, and operations research.
+Recommended Prep: Mathematics 21b, Applied Mathematics 21b, or equivalent; Economics 1011a, or equivalent; or permission of instructor.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Additional Course Attributes:
+Computer Science 244

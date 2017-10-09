@@ -1,0 +1,13 @@
+Engineering Sciences 173
+Introduction to Electronic and Photonic Devices (119048)
+Evelyn Hu
+2017 Fall (4 Credits) Schedule: HARVARD UNIVERSITY
+TR 0100 PM - 0229 PM
+9/4/2017 0:39 AM
+Instructor Permissions: None Enrollment Cap: n/a
+This course will focus on physical principles underlying semiconductor devices: electrons and holes in semiconductors , energies and bandgaps, transport properties of electrons and holes, p-n junctions, transistors, light emitting diodes, lasers, solar cells and thermoelectric devices.
+Course Notes: This course will include a few short laboratory sessions.
+Recommended Prep: Applied Physics 50a and b, Physics 15a and b, Physical Sciences 12a and b, or equivalent (mechanics; electromagnetism); undergraduate level
+quantum mechanics highly useful, but not required.
+Additional Course Attributes:
+Engineering Sciences 17

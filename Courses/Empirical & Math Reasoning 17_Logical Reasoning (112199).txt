@@ -1,0 +1,35 @@
+Empirical & Math Reasoning 17
+Logical Reasoning (112199)
+Ned Hall
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0100 PM - 0229 PM n/a
+Additional Course Attributes:
+conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results. See the course website for more details.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: General Education
+ Science of Living Systems
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Primarily for Undergraduate Students
+           The concepts and principles of symbolic logic: valid and invalid arguments, logical relations of statements and their basis in structural features of those statements, the analysis of complex statements of ordinary discourse to uncover their structure, the use of a symbolic language to display logical structure and to facilitate methods for assessing arguments. Analysis of reasoning with truth-functions ("and", "or", "not", "if...then") and with quantifiers ("all", "some"). Special attention will be given to the norms underlying valid reasoning, to applications of formal techniques to "arguments in the wild", and to the wide variety of non-logical ways that ordinary discourse can succeed at being (illicitly) persuasive.
+Class Notes: Weekly quizzes and "argument labs" will be held Fridays 11-1 and 1-3. Students are required to select one of these time periods when registering
+for the course.
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ None
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Core Curriculum
+ Quantitative Reasoning
+             Empirical & Math Reasoning 2

@@ -1,0 +1,17 @@
+Engineering Sciences 176
+Introduction to MicroElectroMechanical System (127589)
+Fawwaz Habbal Amit Solanki Anas Chalah
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+R 0400 PM - 0559 PM n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         This course introduces student to the rapidly emerging, multi-disciplinary and exciting field of MicroElectroMechanical Systems (MEMS). It teaches fundamentals of micro machining and Micro fabrication techniques, including planar thin-film process technologies, photolithography and soft-lithography techniques, deposition and etching techniques, and surface, bulk, and electroplating micro machining technologies.
+Recommended Prep: Applied Physics 50a,b, Physical Sciences 12a,b, Physics 11a,b (no longer offered) or 15a,b; College Chemistry at the level of Life Sciences 1a and
+Additional Course Attributes:
+Engineering Sciences 17

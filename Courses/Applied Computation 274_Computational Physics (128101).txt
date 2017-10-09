@@ -1,0 +1,37 @@
+Applied Computation 274
+Computational Physics (128101)
+Sauro Succi
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+WF 1000 AM - 1159 AM n/a
+Can only be taken after successful completion of CS 109a, AC 209a, Stat 121a, or equivalent. Students who have previously taken CS 109, AC 209, or Stat 121 cannot take CS 109b, AC 209b, or Stat 121b for credit.
+CS 109a, AC 209a, or Stat 121a required.
+Requisite: (Must take CS 109A OR APCOMP 209A OR STAT 121A before taking APCOMP 209B) AND (Cannot take APCOMP 209B, if already taken APCOMP 209 OR CS 109 OR CS 109B OR STAT 121 OR STAT 121B)
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  Full Year Course
+ Divisible Course
+           The course will describe major computational techniques for fluid flows, as described by the Navier-Stokes equations of continuum mechanics. In addition, the course will cover a new class of mesoscale techniques for complex flows and soft matter systems, which do not fit within the continuum Navier-Stokes description. The latter encompass a broad class of flowing materials of special interest to micro-nano engineering and biology.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+For more information, see <a href="https://projects.iq.harvard.edu/ac274_2016">http://projects.iq.harvard. edu/ac274_2016</a>.
+None, but basic notions of numerical analysis and scientific computing would help.
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  GSD: MDS/MDE Rec. Elec.
+ MDE recommended elective
+  FAS: Course Level
+ Primarily for Graduate Students
+           Applied Computation 297

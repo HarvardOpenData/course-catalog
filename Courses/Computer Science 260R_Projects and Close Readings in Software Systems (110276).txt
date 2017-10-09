@@ -1,0 +1,25 @@
+Computer Science 260R
+Projects and Close Readings in Software Systems (110276) HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+  Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+          
+Eddie Kohler
+2018 Spring (4 Credits) Schedule: MW 0100 PM - 0229 PM Instructor Permissions: Instructor Enrollment Cap: n/a
+Modern software systems construction and analysis. Distributed systems; operating systems; networks; data centers; big data; emerging systems deployments. Close, careful reading of research papers and code, coupled with programming projects. Readability and programmability. Topic focus will change each offering. May be repeated for credit with instructor permission.
+Recommended Prep: Programming experience and instructor permission. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+         Computer Science 26

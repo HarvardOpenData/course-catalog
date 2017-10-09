@@ -1,0 +1,10 @@
+Biostatistics 232
+Methods I (119846)
+Linda Valeri
+2017 Fall (4 Credits) Schedule: MW 0945 AM - 1115 AM Instructor Permissions: Instructor Enrollment Cap: n/a
+Introductory course in the analysis of Gaussian and categorical data. The general linear regression model, ANOVA, robust alternatives based on permutations, model building, resampling methods (bootstrap and jackknife), contingency tables, exact methods, logistic regression.
+Course Notes: Class Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Biostatistics 23

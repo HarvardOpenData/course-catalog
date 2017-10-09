@@ -1,0 +1,16 @@
+Biostatistics 234
+Introduction to Data Structures and Algorithms (160641)
+Christoph Lange Curtis Huttenhower
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MW 1130 AM - 0100 PM n/a
+Introduction to the data structures and computer algorithms that are relevant to statistical computing. The implementation of data structures and algorithms for data management and numerical computations are discussed.
+Course Notes: Offered jointly with the School of Public Health as BST 234. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Biostatistics 23

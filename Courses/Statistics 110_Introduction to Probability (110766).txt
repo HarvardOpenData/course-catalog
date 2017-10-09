@@ -1,0 +1,17 @@
+Statistics 110
+Introduction to Probability (110766)
+Joseph Blitzstein
+2017 Fall (4 Credits) Schedule: TR 0230 PM - 0359 PM Instructor Permissions: None Enrollment Cap: n/a
+A comprehensive introduction to probability. Basics: sample spaces and events, conditional probability, and Bayes' Theorem. Univariate distributions: density functions, expectation and variance, Normal, t, Binomial, Negative Binomial, Poisson, Beta, and Gamma distributions. Multivariate distributions: joint and conditional distributions, independence, transformations, and Multivariate Normal. Limit laws: law of large numbers, central limit theorem. Markov chains: transition probabilities, stationary distributions, convergence.
+Recommended Prep: Mathematics 18, 21a, or above (may be taken concurrently). Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+           Statistics 11

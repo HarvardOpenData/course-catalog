@@ -1,0 +1,16 @@
+Computer Science 61
+Systems Programming and Machine Organization (123623)
+Eddie Kohler
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+Fundamentals of computer systems programming, machine organization, and performance tuning. This course provides a solid background in systems programming and a deep understanding of low-level machine organization and design. Topics include C and assembly language programming, program optimization, memory hierarchy and caching, virtual memory and dynamic memory management, concurrency, threads, and synchronization.
+Recommended Prep: CS50 or some experience programming in C. Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Computer Science 90NB

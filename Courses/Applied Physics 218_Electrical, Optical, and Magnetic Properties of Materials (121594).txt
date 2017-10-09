@@ -1,0 +1,24 @@
+Applied Physics 218
+Electrical, Optical, and Magnetic Properties of Materials (121594)
+Xin Li
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MW 0100 PM - 0229 PM n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         This course covers the electrical, optical and magnetic properties of several technologically important materials systems. It provides a general introduction of structure-property relations; defect chemistry including Kroger-Vink diagram and charged point defect; ionic conductivity in electrochemical intercalation energy storage materials; optical properties of wide bandgap metal oxides; spin, charge and crystal structure coupling, and their ordering and disordering.
+Recommended Prep: Introductory solid-state physics or equivalent course. Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         Applied Physics 22

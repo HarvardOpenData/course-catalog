@@ -1,0 +1,15 @@
+Engineering Sciences 156
+Signals and Systems (148148)
+Flavio du Pin Calmon
+2018 Spring (4 Credits) Schedule: TR 1000 AM - 1129 AM Instructor Permissions: None Enrollment Cap: n/a
+Time and frequency domain representations and analysis of signals and systems. Convolution and linear input- output systems in continuous and discrete time. Fourier transforms and Fourier series for continuous- and discrete- time signals. Laplace and Z transforms. Analog and digital filtering. Modulation. Sampling. FFT. Applications in circuit analysis, communication, control, and computing.
+Recommended Prep: Applied Mathematics 21b or Mathematics 21b. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Engineering Sciences 15

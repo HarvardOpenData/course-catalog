@@ -1,0 +1,23 @@
+Freshman Seminar 60Z
+Go Rococo! Techniques in Digital Design (203405)
+Andrew Holder
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+W 0230 PM - 0429 PM 12
+At the beginning of the 18th century, baroque architecture and art in Western Europe entered a new phase called the rococo, characterized by extreme visual complexity, ornamentation, and the collapse of compositional and political hierarchy. Architectural interiors became excessive (or at least no longer classically ordered) during this period, filled almost to the point of overflowing with painting, sculpture, and decoration, much of it depicting characters in mischievous and compromising postures. This course will examine the rococo as a precedent for reflection on problems in contemporary design and as a provocation to create new work using digital design tools. Coursework will be founded on two related propositions: first, that the architecture and art of the Rococo are remarkably similar to the visual and material culture of the present day; and second, that contemporary design stands to benefit from a close examination of its predecessor. Activities will be divided between reading, writing, and making. Each week, students will examine a rococo building precedent, reading the architecture against a series of texts on contemporary design issues. In addition, each student will undertake a semester‐long design project using digital design tools to create and animate an architectural interior in the manner of the rococo. Software tutorials on the Adobe Creative Cloud software suite will be provided in class. Readings and tutorials will be supplemented with field trips to the Houghton Library and Fogg Museum to experience rococo artifacts first‐hand.
+Course Notes: This course is a hybrid design workshop and seminar in the history of 18th century architecture. Students will learn to use state-of-the-art digital design
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+Requirements:
+Additional Course Attributes:
+Freshman Seminar 61C
+tools while critically examining canonical examples of late baroque and rococo buildings. Design skill, artistic ability, and prior exposure to digital modeling software are NOT required for this course, nor is any prior knowledge of architecture. Absolute neophytes are welcome. Students do not need to purchase software or any computer equipment in order to participate.
+Course open to Freshman Students Only
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS Divisional Distribution
+ Non

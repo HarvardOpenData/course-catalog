@@ -1,0 +1,8 @@
+Computer Science 126
+Fairness, Privacy, and Validity in Data Analysis (204972)
+Cynthia Dwork
+2017 Fall (4 Credits) Schedule: TR 1000 AM - 1129 AM Instructor Permissions: Instructor Enrollment Cap: 30
+Students will learn to analyze and mitigate privacy loss, unfairness, and lack of statistical validity, in data analysis. Principal techniques will come from cryptography, differential privacy, and the newly emerging areas of adaptive data analysis and fairness in machine learning.
+Course Notes: Recommended Prep:
+Additional Course Attributes:
+Computer Science 12

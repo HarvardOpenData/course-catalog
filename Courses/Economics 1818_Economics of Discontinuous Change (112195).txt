@@ -1,0 +1,8 @@
+Economics 1818
+Economics of Discontinuous Change (112195)
+Richard Freeman
+2018 Spring (4 Credits) Schedule: TR 0100 PM - 0159 PM Instructor Permissions: None Enrollment Cap: n/a
+Explores discontinuous changes in the economic position of groups and countries and presents mathematical and computer simulation models designed to illuminate these changes. Examples include growth/decline of trade unions, segregation of groups, development of linkages on the internet, changes in corporate work culture, growth of social pathologies in neighborhoods, and Malthusian concerns about the environment. Models include nonlinear simulations, neural networks, finite automata, evolutionary stable strategies, causal conjunctures, agent-based simulations, and genetic algorithms.
+Course Notes:
+Recommended Prep: Additional Course Attributes:
+Economics 193

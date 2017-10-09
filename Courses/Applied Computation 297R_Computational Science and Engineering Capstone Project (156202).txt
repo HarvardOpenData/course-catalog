@@ -1,0 +1,8 @@
+Applied Computation 297R
+Computational Science and Engineering Capstone Project (156202)
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+Pavlos Protopapas
+2018 Spring (4 Credits) Schedule: T 0400 PM - 0559 PM Instructor Permissions: Instructor Enrollment Cap: 45
+The CSE capstone project is intended to integrate and apply the skills and ideas CSE students acquire in their core courses and electives. By requiring students to complete a substantial and challenging collaborative project, the capstone course will prepare students for the professional world and ensure that they are trained to conduct research. There will be no homework or lectures. Students will be dealing with real-world problems, messy data sets, and the chance to work on an end-to-end solution to a problem using computational methods.
+Additional Course Attributes:
+Applied Computation 298

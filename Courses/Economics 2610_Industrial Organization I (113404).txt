@@ -1,0 +1,10 @@
+Economics 2610
+Industrial Organization I (113404)
+Ariel Pakes Robin Lee
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+M 1130 AM - 0229 PM n/a
+Applied work in industrial organization. Static analysis (theory, estimation): demand systems, cost functions (adverse selection, moral hazard, productivity), and game theoretic concepts of equilibrium in different types of markets. Dynamic analysis (theory, computation, estimation): single agent problems, dynamic games and their application.
+Additional Course Attributes:
+Economics 261

@@ -1,0 +1,37 @@
+Computer Science 171
+Visualization (124364)
+Johanna Beyer
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+TR 0230 PM - 0359 PM 70
+Computer Science 51 and Computer Science 61.
+  Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+          An introduction to key design principles and techniques for visualizing data. Covers design practices, data and image models, visual perception, interaction principles, visualization tools, and applications. Introduces programming of web-based interactive visualizations.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.
+Students are expected to have basic programming experience (e.g., Computer Science 50).
+   Attribute
+ Value(s)
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  GSD: MDS/MDE Rec. Elec.
+ MDE recommended elective
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+               Computer Science 17

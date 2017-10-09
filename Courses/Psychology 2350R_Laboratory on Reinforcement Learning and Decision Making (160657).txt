@@ -1,0 +1,33 @@
+Psychology 2350R
+Laboratory on Reinforcement Learning and Decision Making (160657)
+Samuel Gershman
+2018 Spring (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+F 1000 AM - 1129 AM n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Social Sciences
+         This lab course provides instruction and experience in conducting research on reinforcement learning and decision making, using a combination of computational, behavioral and neural techniques. Students will learn how to fit models of reinforcement learning and decision making to behavioral data, collect and analyze functional MRI data, and develop algorithms for artificial intelligence. Open to graduate and undergraduate students working in the
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+instructor's laboratory. Undergraduates are required to write a research report at the end of the semester on the studies conducted in the lab.
+Class Notes: For information about joining the lab, email gershman@fas.harvard.edu Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Social Sciences
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Psychology 2350Psychology 2350R
+Laboratory on Reinforcement Learning and Decision Making (160657)
+Samuel Gershman
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+F 1000 AM - 1129 AM n/a
+This lab course provides instruction and experience in conducting research on reinforcement learning and decision making, using a combination of computational, behavioral and neural techniques. Students will learn how to fit models of reinforcement learning and decision making to behavioral data, collect and analyze functional MRI data, and develop algorithms for artificial intelligence. Open to graduate and undergraduate students working in the instructor's laboratory. Undergraduates are required to write a research report at the end of the semester on the studies conducted in the lab.
+Class Notes: For information about joining the lab, email gershman@fas.harvard.edu Additional Course Attributes:
+Psychology 2352

@@ -1,0 +1,21 @@
+Computer Science 290HFB
+Computer Science Research Seminar (204013) 2018 Spring (2 Credits)
+Schedule:
+R 0400 PM - 0529 PM M 0400 PM - 0459 PM n/a
+Enrollment Cap:
+  Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  Full Year Course
+ Indivisible Course
+  FAS Divisional Distribution
+ None
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+            Instructor Permissions: Instructor
+This course introduces first year Computer Science PhD students to the CS colloquium series. Required for G1
+PhDs in CS.
+Course Notes: Limited to CS PhD G1 students only. Instructor permission required.
+Additional Course Attributes:
+Computer Science 299

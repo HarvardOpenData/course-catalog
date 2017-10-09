@@ -1,0 +1,19 @@
+Computer Science 152
+Programming Languages (119629)
+Stephen Chong
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Comprehensive introduction to the principal features and overall design of both traditional and modern programming languages, including syntax, formal semantics, abstraction mechanisms, modularity, type systems, naming, polymorphism, closures, continuations, and concurrency. Provides the intellectual tools needed to design, evaluate, choose, and use programming languages.
+Recommended Prep:
+Additional Course Attributes:
+Computer Science 16

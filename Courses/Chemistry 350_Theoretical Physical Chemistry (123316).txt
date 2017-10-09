@@ -1,0 +1,41 @@
+Chemistry 350
+Theoretical Physical Chemistry (123316) HARVARD UNIVERSITY
+Schedule: TBD Enrollment Cap: n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ None
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Graduate Course
+         Schedule: TBD Enrollment Cap: n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Graduate Course
+         Schedule: TBD Enrollment Cap: n/a
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Graduate Course
+  FAS Divisional Distribution
+ None
+          9/4/2017 0:39 AM
+Eugene Shakhnovich
+2018 Spring (4 Credits)
+Instructor Permissions: Instructor
+Additional Course Attributes:
+Chemistry 35Chemistry 350
+Theoretical Physical Chemistry (123316)
+Eugene Shakhnovich
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Additional Course Attributes:
+Chemistry 36

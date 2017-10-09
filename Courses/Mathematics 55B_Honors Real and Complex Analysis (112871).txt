@@ -1,0 +1,42 @@
+Mathematics 55B
+Honors Real and Complex Analysis (112871)
+Noam D. Elkies
+2018 Spring (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+MWF 1100 AM - 1159 AM n/a
+Mathematics 55a is an intensive course for students having significant experience with abstract mathematics. Every effort will be made to accommodate students uncertain of whether the course is appropriate for them; in particular, Mathematics 55a and 25a will be closely coordinated for the first three weeks of instruction. Students can switch between the two courses during the first three weeks without penalty. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.
+Commitment to a demanding course, strong interest in mathematics, and familiarity with proofs and abstract reasoning.
+  Attribute
+ Value(s)
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+              A rigorous introduction to real and complex analysis. This course covers the equivalent of Mathematics 25b and Mathematics 113, and prepares students for Mathematics 114 and other advanced courses in analysis.
+Course Notes:
+Requirements:
+Additional Course Attributes:
+Mathematics 55b is an intensive course for students having significant experience with abstract mathematics. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.
+Prerequisite: Mathematics 55A
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+            HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+ Mathematics 60

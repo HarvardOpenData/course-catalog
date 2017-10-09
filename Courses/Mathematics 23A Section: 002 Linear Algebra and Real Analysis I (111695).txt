@@ -1,0 +1,26 @@
+Mathematics 23A Section: 002 Linear Algebra and Real Analysis I (111695)
+Paul Bamberg
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+F 0100 PM - 0159 PM 48
+   Attribute
+ Value(s)
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  FAS: Course Level
+ Primarily for Undergraduate Students
+             Linear algebra: vectors, linear transformations and matrices, scalar and vector products, basis and dimension, eigenvectors and eigenvalues, including an introduction to the R scripting language. Single-variable real analysis: sequences and series, limits and continuity, derivatives, inverse functions, power series and Taylor series. Multivariable real analysis and calculus: topology of Euclidean space, limits, continuity, and differentiation in n dimensions, inverse and implicit functions, manifolds, Lagrange multipliers, path integrals, div, grad, and curl. Emphasis on topics that are applicable to fields such as physics, economics, and computer science, but students are also expected to learn how to prove key results.
+Course Notes:
+Students are expected to watch videos of the lectures from Fall 2015 before attending class. Weekly two-hour classes will consist of a one-hour seminar in which students present key definitions and proofs and a one-hour activity- based session in which students work in small groups to solve problems. Students are expected to continue in either Mathematics 23b (recommended for students who are thinking of concentrating in
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Recommended Prep:
+Additional Course Attributes:
+Mathematics 23

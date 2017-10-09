@@ -1,0 +1,7 @@
+Molecular & Cellular Biology 355
+Visualizing, Analyzing and Presenting Macromolecular Structures with PyMOL (160523)
+Rachelle Gaudet
+2018 Spring (2 Credits) Schedule: TBD Instructor Permissions: Instructor Enrollment Cap: n/a
+PyMOL is one of the most popular software programs to display and explore high-resolution structures of macromolecules. It is readily used to create publication-quality figures, and movies and animations of structural information. In this course, you will learn the basics of PyMOL and be able to display, explore and present three- dimensional structures of macromolecules. With this basic training, you will be able to generate high-quality images and simple movies, and have the resources to learn more on your own to generate more complex displays.
+Additional Course Attributes:
+Molecular & Cellular Biology 35

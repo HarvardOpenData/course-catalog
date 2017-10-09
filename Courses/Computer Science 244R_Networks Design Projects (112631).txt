@@ -1,0 +1,25 @@
+Computer Science 244R
+Networks Design Projects (112631)
+H. Kung
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0230 PM - 0359 PM n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         The contents and course requirements are similar to those of Computer Science 144r, with the exception that students enrolled in Computer Science 244r are expected to do substantial system implementation and perform graduate-level work.
+Course Notes:
+Recommended Prep:
+Preference given to upper-class undergraduates or graduate students in computer science or in business who are proficient in computer programming or in business software.
+Programming experience (CS 50 should be fine) and interest in the subject matter. Importantly, CS 143 is NOT a prerequisite. Labs and extra support will provide intensive preparation in the first weeks of the semester to help students quickly obtain the networking background necessary to excel in the
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+course.
+Additional Course Attributes:
+Computer Science 24

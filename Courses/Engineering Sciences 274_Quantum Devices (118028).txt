@@ -1,0 +1,21 @@
+Engineering Sciences 274
+Quantum Devices (118028)
+Marko Loncar
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+WF 1030 AM - 1159 AM n/a
+Electronic structure of crystals. Semiconductor heterostructures: bandstructure engineering. Low-dimensional solids: quantum wells, wires and dots; superlattices; 2D electron gas; carbon nanotubes, nanowires, graphene. Tunneling and resonant tunneling, superlattice transport. Quantum point contacts. Interband and intersubband optical transistions. Quantum confined Stark effect. Device concepts (diodes, transistors, lasers). Quantum well lasers, modulators and detectors. Resonant tunneling devices. Quantum cascade lasers.
+Recommended Prep: Undergraduate level quantum mechanics such as Physics 143a or equivalent.
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         Engineering Sciences 27

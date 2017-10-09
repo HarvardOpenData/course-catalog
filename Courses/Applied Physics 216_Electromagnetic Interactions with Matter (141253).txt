@@ -1,0 +1,12 @@
+Applied Physics 216
+Electromagnetic Interactions with Matter (141253)
+Jene Golovchenko
+2018 Spring (4 Credits)
+Instructor Permissions: None HARVARD UNIVERSITY
+Schedule: Enrollment Cap:
+WF 1030 AM - 1159 AM n/a
+9/4/2017 0:39 AM
+The first half of the course will cover the interaction of quantized atoms with electromagnetic fields, introducing several key concepts such as coherent Rabi oscillation vs. non-coherent rate equation dynamics, stimulated &spontaneous transition, and energy &phase relaxations. These will be then used as an integrated language to study a range of applications of atom-field interactions, especially, nuclear magnetic resonance, molecular beam &paramagnetic masers, atomic clocks, electromagnetically induced transparency, dynamic nuclear polarization, and importantly, lasers. We will briefly touch upon the interaction of quantized atoms with photons, discussing the atom + photon (Jaynes-Cummings) Hamiltonian, dressed states, and cavity QED. The second half will cover the classical interaction of electromagnetic fields and waves with matter, with special attentions to collective electrodynamics— magnetohydrodynamics and plasma physics—with applications in astrophysics, space physics, and Bloch electrons in crystalline solids.
+Recommended Prep: Undergraduate-level electromagnetism and quantum mechanics are recommended.
+Additional Course Attributes:
+Applied Physics 21

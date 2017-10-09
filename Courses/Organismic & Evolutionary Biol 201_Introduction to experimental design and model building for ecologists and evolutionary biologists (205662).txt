@@ -1,0 +1,25 @@
+Organismic & Evolutionary Biol 201
+Introduction to experimental design and model building for ecologists and evolutionary biologists (205662)
+Elizabeth Wolkovich
+2017 Fall (4 Credits) Schedule: W 1030 AM - 1229 PM Instructor Permissions: Instructor Enrollment Cap: 12
+This class will cover the fundamentals of model building with a focus on regression, for data gathered from experiments as well as other approaches. The course will move briskly through basic statistics (averages, standard errors) and linear regression then focus on experimental design, model building and causal inference, covering sample size decisions, missing data, model verification and validation, and randomized experiments. Inference will be Bayesian-focused.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Recommended Prep:
+Additional Course Attributes:
+Open to graduate students who have taken OEB 153 or equivalent or by permission of the instructor. Students must be comfortable with R, Python or equivalent, or planning to learn either language quickly on their own during the course.
+  Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+          Organismic & Evolutionary Biol 217

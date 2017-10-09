@@ -1,0 +1,27 @@
+Special Topics in Condensed Matter Physics: Topological States of Matter (122818)
+Bertrand Halperin
+2018 Spring (4 Credits) Schedule: TR 0300 PM - 0429 PM Instructor Permissions: None Enrollment Cap: n/a
+Notions of topology have been invoked to clarify the properties of a variety of quantum systems and to classify the possible ground states of such systems. We shall explore in depth examples such as integer and fractional quantized Hall states in two-dimensional systems, and topological insulators in two and three dimensions. Discussions will include effects of disorder and localization phenomena, and practical issues of measurement that may have only marginal relation to topological concepts.
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+         Topic: Recommended Prep:
+Topological States of Matter
+Prerequisites: Physics 251b, Applied Physics 295a and Physics 262, or equivalents.
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+         Physics 268B

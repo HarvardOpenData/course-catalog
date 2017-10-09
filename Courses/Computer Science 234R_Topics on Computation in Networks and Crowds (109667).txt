@@ -1,0 +1,36 @@
+Computer Science 234R
+Topics on Computation in Networks and Crowds (109667)
+Yaron Singer
+2018 Spring (4 Credits) Schedule: TBD Instructor Permissions: None Enrollment Cap: n/a
+Topics on the design and analysis of algorithms, processes, and systems related to crowds and social networks. Readings in AI, theoretical CS, machine learning, social science theory, economic theory, and operations research.
+Recommended Prep: Mathematics 21b, Applied Mathematics 21b, or equivalent; Computer Science 124, and 181 or 182, or equivalents; or permission of instructor.
+    Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         Additional Course Attributes:
+Computer Science 234Computer Science 234R
+Topics on Computation in Networks and Crowds (109667)
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+          Nicole Immorlica
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+F 0900 AM - 1159 AM n/a
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Topics on the design and analysis of algorithms, processes, and systems related to crowds and social networks. Readings in AI, theoretical CS, machine learning, social science theory, economic theory, and operations research.
+Recommended Prep: Mathematics 21b, Applied Mathematics 21b, or equivalent; Computer Science 124, and 181 or 182, or equivalents; or permission of instructor.
+Additional Course Attributes:
+Computer Science 236

@@ -1,0 +1,20 @@
+Engineering Sciences 137
+Energy within Environmental Constraints (156215)
+David Keith
+2018 Spring (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+TR 0830 AM - 0959 AM n/a
+This course provides a systematic introduction to the energy system for students in engineering and applied sciences. Students should gain a working understanding of the some of the most important energy technologies, from prime movers--gas turbines, steam cycles, and reciprocating engines--to secondary energies including fuel production and refining technologies and the electricity transmission and distribution system. The course aims at a systematic understanding of the energy system's environmental footprint as a tool to help students who will work to reduce it. Energy is a commodity. One cannot hope to re-shape the energy system to meet environmental constrains without a rough working understanding of energy markets--costs, prices and elasticities of supply and demand. So the course will integrate engineering economics and other applied social sciences into the treatment of energy technologies to enable a system's view of energy.
+Recommended Prep: Advanced high school mathematics, chemistry, and physics. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+        HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+ Engineering Sciences 13

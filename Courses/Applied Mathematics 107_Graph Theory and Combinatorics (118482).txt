@@ -1,0 +1,10 @@
+Applied Mathematics 107
+Graph Theory and Combinatorics (118482)
+Leslie Valiant
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+Topics in combinatorial mathematics that find frequent application in computer science, engineering, and general applied mathematics. Specific topics taken from graph theory, enumeration techniques, optimization theory, combinatorial algorithms, and discrete probability.
+Additional Course Attributes:
+Applied Mathematics 10

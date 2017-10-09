@@ -1,0 +1,10 @@
+Data Science 1: Introduction to Data Science (203101)
+Kevin A. Rader Pavlos Protopapas Margo Levine
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MW 0100 PM - 0229 PM n/a
+Data Science 1 is the first half of a one-year introduction to data science. The course will focus on the analysis of messy, real life data to perform predictions using statistical and machine learning methods. Material covered will integrate the five key facets of an investigation using data: (1) data collection - data wrangling, cleaning, and sampling to get a suitable data set; (2) data management - accessing data quickly and reliably; (3) exploratory data analysis –generating hypotheses and building intuition; (4) prediction or statistical learning; and (5) communication –summarizing results through visualization, stories, and interpretable summaries. Part one of a two part series. The curriculum for this course builds throughout the academic year. Students are strongly encouraged to enroll in both the fall and spring course within the same academic year.
+Course Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Statistics 121

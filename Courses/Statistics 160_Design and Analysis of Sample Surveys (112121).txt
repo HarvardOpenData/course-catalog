@@ -1,0 +1,19 @@
+Statistics 160
+Design and Analysis of Sample Surveys (112121)
+Alan Zaslavsky
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0230 PM - 0359 PM n/a
+Methods for design and analysis of sample surveys. The toolkit of sample design features and their use in optimal design strategies. Sampling weights and variance estimation methods, including resampling methods. Brief overview of nonstatistical aspects of survey methodology such as survey administration and questionnaire design and validation (quantitative and qualitative). Additional topics: calibration estimators, variance estimation for complex surveys and estimators, nonresponse, missing data, hierarchical models, and small-area estimation.
+Course Notes: The regular classroom hours of Stat 160 are 2:30 - 4:00. The extra hour is for extra discussion for 260.
+Recommended Prep: Statistics 111 or 139 or with permission of instructor. Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Statistics 17

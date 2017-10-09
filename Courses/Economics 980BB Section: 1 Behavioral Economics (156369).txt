@@ -1,0 +1,18 @@
+Economics 980BB Section: 1 Behavioral Economics (156369)
+Tomasz Strzalecki
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+W 0200 PM - 0359 PM 18
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Social Sciences
+         The seminar will focus on theoretical and experimental issues in behavioral economics. We will study the relationships between the mathematical models of individual behavior (both utility maximization and psychologically motivated models) and the kinds of behavior we can observe in the lab. We will design experiments to test various theories and also study the types of behavior for which we don't have good models yet and try to understand what a good model would look like. This is a junior tutorial.
+Recommended Prep: Prior knowledge of behavioral economics will be useful. The course will focus on analytical methods and therefore requires knowledge of calculus.
+Additional Course Attributes:
+Economics 980C

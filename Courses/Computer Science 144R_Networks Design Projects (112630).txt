@@ -1,0 +1,9 @@
+Computer Science 144R
+Networks Design Projects (112630)
+H. Kung
+2018 Spring (4 Credits) Schedule: MW 0230 PM - 0359 PM Instructor Permissions: None Enrollment Cap: n/a
+Networking has evolved to a new era of supporting large-scale distributed computing for big data. These new networks are software defined in the sense that they can be dynamically programmed to meet various communications needs in computing. In CS 144r/244r, students will obtain the knowledge and experience necessary not only to understand this momentous technological shift in networking, but also to be able to play a part themselves. To this end, the course will not only teach the fundamental concepts necessary to understand this emerging field of software-defined networking, but also real world applications of the technologies such as next- generation ultra-dense 5G cellular networks, as well as their connection with complementary topics such as machine learning. The class will be organized into the following eight modules: A View of the Future: The Promise of Next Generation Networking; Basic Network Design and Protocols; Datacenter Design and Networking; Software Defined Networking; Cross-Disciplinary Applications of Next Generation Networking: Machine Learning, Distributed Computing, and Consumer Applications; Wireless Networking: 5G Networks and Millimeter Wave Communication; Connecting the Internet of Things; Next Generation Networking Enabled Infrastructure: Network Function Virtualization. Students will gain mastery of the subject through lectures, programming assignments, discussion of the latest networking literature, and a final project. Students will have wide latitude in designing and implementing a final project they are passionate about. Industry partners will support the course and provide resources for the final projects.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Computer Science 14

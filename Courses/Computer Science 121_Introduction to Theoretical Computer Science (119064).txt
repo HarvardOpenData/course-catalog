@@ -1,0 +1,9 @@
+Computer Science 121
+Introduction to Theoretical Computer Science (119064)
+Boaz Barak Salil Vadhan
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+Computation occurs over a variety of substrates including silicon, neurons, DNA, the stock market, bee colonies and many others. In this course we will study the fundamental capabilities and limitations of computation, including the phenomenon of universality and the duality of code and data. Some of the questions we will touch upon include: Are there functions that cannot be computed? Are there true mathematical statements that can't be proven? Are there encryption schemes that can't be broken? Is randomness ever useful for computing? Can we use the quirks of quantum mechanics to speed up computation?
+Course Notes: Recommended Prep:
+Additional Course Attributes:
+Computer Science 12

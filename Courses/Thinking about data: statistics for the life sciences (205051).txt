@@ -1,0 +1,32 @@
+Thinking about data: statistics for the life sciences (205051)
+Richard Born Brian Healy
+2017 Fall (2 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+TBD n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Graduate Course
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ None
+         Probability &statistics taught with an emphasis on using simulations and re-sampling methods to both analyze data and understand core statistical concepts. Prior to class, students will view online lectures from Dr. Brian Healy's biostatistics course. In class, we will focus on MATLAB coding exercises to practice different approaches to analyzing real data sets, with an emphasis on resampling methods.
+Course Notes:
+Class Notes:
+Recommended Prep:
+Additional Course Attributes:
+This course will use a flipped design in which students will view video lectures from Dr. Brian Healy's Biostatistics Certificate Course (offered through Catalyst) prior to in-class programming exercises.
+Classes begin on September 6 2017 through Octorber 25 2017. Please contact Richard Born, richard_born@hms.harvard.edu for any questions concerning the course.
+Students are required to take Neurobiology 306QC as a pre-requisite for this course.
+W 0600 PM - 0759 PM 25
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Graduate Course
+         HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+ Neurobiology - Graduate 30

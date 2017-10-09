@@ -1,0 +1,33 @@
+Physics 295B
+Quantum Theory of Solids (127979)
+Eugene Demler
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 1000 AM - 1129 AM n/a
+251b would be helpful and may be taken concurrently.)
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         This course presents theoretical description of solids focusing on the effects of interactions between electrons. Topics include Fermi liquid theory, dielectric response and RPA approximation, ferro and antiferromagnetism, RKKY interactions and Kondo effect, electron-phonon interactions and superconductivity.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Physics 295b is also offered as Applied Physics 295b. Students may not take both for credit.
+Physics 251a,b, an introductory course in solid state physics, or permission of instructor.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+        HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+ Physics 301

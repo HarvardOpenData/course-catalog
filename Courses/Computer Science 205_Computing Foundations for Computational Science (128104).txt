@@ -1,0 +1,18 @@
+Computer Science 205
+Computing Foundations for Computational Science (128104)
+Ignacio Llorente
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Undergraduate Students
+         An applications course highlighting the use of computers in solving scientific problems. Students will be exposed to fundamental computer science concepts such as computer architectures, data structures, algorithms, and parallel computing. Fundamentals of scientific computing including abstract thinking, algorithmic development, and assessment of computational approaches. Students will learn to use open source tools and libraries and apply them to data analysis, modeling, and visualization of real scientific problems. Emphasizes parallel programming and "parallel thinking."
+Students are expected to have programming experience (e.g., CS50/51, fluent in Python, C/C++, or similar). Course will be taught primarily in Python and C.
+Recommended Prep:
+Additional Course Attributes:
+Computer Science 20

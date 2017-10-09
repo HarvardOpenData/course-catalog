@@ -1,0 +1,18 @@
+Biostatistics 290
+Advanced Computational Biology and Bioinformatics (126948)
+Guocheng Yuan
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+MW 0345 PM - 0515 PM n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         Students will explore current topics in computational biology in a seminar format with a focus on interpretation of 'omics data. They will develop skills necessary for independent research using computational biology.
+Course Notes:
+Requirements:
+Additional Course Attributes:
+Biostatistics 35

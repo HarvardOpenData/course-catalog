@@ -1,0 +1,28 @@
+Physics 216
+Mathematics of Modern Physics (127815)
+Arthur Jaffe
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+         Introduction to functional analytic methods relevant for problems in quantum and statistical physics. Properties of linear transformations on Hilbert space. Generators of continuous groups and semigroups. Properties of Green's functions and matrices. Uniqueness and non-uniqueness of ground states and equilibrium states. Heat kernel methods. Index theory, invariants, and related algebraic structure. The KMS condition and its consequences.
+Recommended Prep: Familiarity with quantum theory at an undergraduate level. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+    HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+   All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+    Physics 22

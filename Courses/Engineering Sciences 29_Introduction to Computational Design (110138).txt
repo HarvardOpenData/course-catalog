@@ -1,0 +1,8 @@
+Engineering Sciences 29
+Introduction to Computational Design (110138)
+Panagiotis Michalatos
+2017 Fall (4 Credits) Schedule: TR 0830 AM - 0959 AM Instructor Permissions: Instructor Enrollment Cap: n/a
+This is an introductory course to computational design and the prerequisite for a spring course that deals with more advanced topics in the field. This course is primarily intended for designers with little background in programming who are interested in developing their skills in order to be able to better understand, interface with and customize the digital tools they are using, or develop their own software and interactive applications. The course introduces students to fundamental concepts and techniques in computational design. By the term "computational design" we mean an ad hoc set of methods borrowed from computer science, computational geometry and other fields, and adapted to specific design problems such as design development, fabrication, analysis, interaction and communication.
+Course Notes:
+Additional Course Attributes:
+Engineering Sciences 5

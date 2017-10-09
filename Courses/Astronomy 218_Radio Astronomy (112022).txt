@@ -1,0 +1,29 @@
+Astronomy 218
+Radio Astronomy (112022)
+Lincoln Greenhill
+2017 Fall (4 Credits) HARVARD UNIVERSITY
+This course offered in alternate years.
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+        Schedule:
+TR 0930 AM - 1059 AM
+9/4/2017 0:39 AM
+Instructor Permissions: None Enrollment Cap: n/a
+Thermal, synchrotron and spectral-line emission in the context of radio observations of the sun, planets, pulsars, masers, interstellar clouds, ionized regions, active galaxy central engines, quasars, and the cosmic background. Diffraction theory of antennas and interferometers. Signal propagation in space and Earth's atmosphere, detection, and measurement techniques. Observational and laboratory exercises that apply concepts treated in lectures and readings. Discussion of articles in the contemporary and historical literature.
+Course Notes: This course offered alternate years.
+Recommended Prep: Students should consult instructor about other courses which could count as
+prerequisites.
+Requirements: Prerequisite: Astronomy 200 OR Physics 153 Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Astronomy 21

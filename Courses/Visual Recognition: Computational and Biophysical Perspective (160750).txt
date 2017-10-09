@@ -1,0 +1,33 @@
+Visual Recognition: Computational and Biophysical Perspective (160750)
+Gabriel Kreiman
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+M 0330 PM - 0529 PM n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+       Examines how neuronal circuits represent information and how those circuits are implemented in artificial intelligence algorithms. Topics: architecture of visual cortex, neurophysiology, visual consciousness, computational neuroscience, models of pattern recognition and computer vision.
+Course Notes:
+Recommended Prep:
+Requirements:
+Course website: <a href="http://klab.tch.harvard.edu/academia/classes/hms_neuro300_vision/h ms_neuro300_vision.html">Neurobiology 230, Visual Recognition</a>
+Neuro 130 cannot be taken if Neuro 230 has been taken. Neuro 130 cannot be taken concurrently with Neuro 230.
+Math (Maa/Mab, Math 1A,1B, Math 19 a or equivalent). Physical Sciences 1. MCB 80.
+Prerequisite: ((LifeSci 1A OR LPS A) AND (LifeSci 1B)) AND may not be taken at the same time with NEURO 230
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+        HARVARD UNIVERSITY 9/4/2017 0:39 AM
+No Department
+Subject: Independent Study
+ Independent Study 

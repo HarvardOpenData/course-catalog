@@ -1,0 +1,6 @@
+Mathematics 283 Section: LEC Instanton Floer Homology (204942)
+Peter Kronheimer
+2018 Spring (4 Credits) Schedule: MWF 1100 AM - 1159 AM Instructor Permissions: None Enrollment Cap: n/a
+An introduction to Floer's instanton homology, as a tool to study 3-manifolds, knots in 3-manifolds, and embedded spatial graphs.
+Additional Course Attributes:
+Mathematics 28

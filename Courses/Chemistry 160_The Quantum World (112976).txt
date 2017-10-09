@@ -1,0 +1,8 @@
+Chemistry 160
+The Quantum World (112976)
+Kang-Kuen Ni
+2017 Fall (4 Credits) Schedule: TR 1130 AM - 1259 PM Instructor Permissions: None Enrollment Cap: n/a
+We live in a quantum world. Many essential properties of atoms, molecules and materials stem from their quantum mechanical nature. In this course, we will focus on the quantum mechanical aspects of physical chemistry. The basic principles of quantum mechanics will be introduced in tandem with the chemical concepts covered. We will describe the quantum mechanics of molecular bonding, vibrations, and rotations. The fundamentals of molecular spectroscopy will be seen in the light of quantum mechanics. The second half of the course will introduce molecular electronic structure and properties and what goes behind the sciences in quantum chemistry packages. Most of the materials for evaluation will be take-home programming exercises written in interactive Python (iPython). There will be no final exam.
+Course Notes:
+Additional Course Attributes:
+Chemistry 16

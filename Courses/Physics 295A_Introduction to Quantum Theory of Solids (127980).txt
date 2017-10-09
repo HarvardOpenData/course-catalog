@@ -1,0 +1,11 @@
+Physics 295A
+Introduction to Quantum Theory of Solids (127980)
+Efthimios Kaxiras
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+Electrical, optical, thermal, magnetic, and mechanical properties of solids will be treated based on an atomic scale picture and using the independent electron approximation. Metals, semiconductors, and insulators will be covered, with possible special topics such as superconductivity.
+Recommended Prep: Physics 181 or equivalent, Applied Physics 195 or equivalent, and a graduate level quantum mechanics course similar to Physics 251a. (Physics
+Additional Course Attributes:
+Physics 295

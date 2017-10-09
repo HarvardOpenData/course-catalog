@@ -1,0 +1,12 @@
+Mathematics 154
+Probability Theory (113811)
+Sebastien Vasey
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 1200 PM - 1259 PM n/a
+An introduction to probability theory. Discrete and continuous random variables; distribution and density functions for one and two random variables; conditional probability. Generating functions, weak and strong laws of large numbers, and the central limit theorem. Geometrical probability, random walks, and Markov processes.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Mathematics 155

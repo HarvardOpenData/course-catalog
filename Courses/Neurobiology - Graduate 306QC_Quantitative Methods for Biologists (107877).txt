@@ -1,0 +1,25 @@
+Neurobiology - Graduate 306QC
+Quantitative Methods for Biologists (107877)
+Michael Springer Richard Born
+2017 Fall (2 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+TBD n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Graduate Course
+  FAS Divisional Distribution
+ None
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Schedule:
+Enrollment Cap:
+TR 0100 PM - 0459 PM MWF 1000 AM - 0359 PM 80
+The goal of this camp is to introduce you to programming in the MATLAB environment and to show you the power this provides for analyzing data and for gaining intuition about the behavior of complex systems through the use of numerical simulations. Some of you, upon encountering in the previous sentence words like "programming" and "numerical simulations," will feel the cold hand of fear grip your stomach, because you have never done any programming and, in fact, have tried to avoid math as much as possible. If so, YOU ARE PRECISELY THE PERSON WE HAD IN MIND as we were planning the course. We are aiming to help you break through this barrier of darkness and fear into the radiant sunshine of quantitative enlightenment. The true beauty of MATLAB, as we will personally demonstrate, is that it allows people who are not mathematically adept (e.g. some of the instructors of
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+this course) to use powerful numerical methods and visualization tools to gain an understanding of concepts that are very difficult to grasp analytically.
+Course Notes: This bootcamp course will meet in August from 8/8/16 - 8/19/16. Sign up through this link
+https://hms.az1.qualtrics.com/SE/?SID=SV_79RO10yYcNkP2nP
+Additional Course Attributes:
+Neurobiology - Graduate 30

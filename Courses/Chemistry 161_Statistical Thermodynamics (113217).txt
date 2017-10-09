@@ -1,0 +1,19 @@
+Chemistry 161
+Statistical Thermodynamics (113217)
+Xiaowei Zhuang
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1130 AM - 1259 PM n/a
+Applied Mathematics 21a and 21b, Mathematics 21a and 21b, or equivalent preparation in calculus and differential equations; Physical Sciences 1 or equivalent preparation in chemical bonding and fundamental principles; Physical Sciences 2 or Physics 11a, and Physical Sciences 3 or Physics 11b.
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         An introduction to statistical mechanics, thermodynamics, and chemical kinetics with applications to problems in chemistry and biology.
+Recommended Prep: Additional Course Attributes:
+Chemistry 16

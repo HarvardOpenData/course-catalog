@@ -1,0 +1,11 @@
+9/4/2017 0:39 AM
+Sciences (125396)
+Focus on concepts and techniques of multivariable calculus most useful to those studying the social sciences, particularly economics: functions of several variables; partial derivatives; directional derivatives and the gradient; constrained and unconstrained optimization, including the method of Lagrange multipliers. Covers linear and polynomial approximation and integrals for single variable and multivariable functions; modeling with derivatives. Covers topics from Math 21a most useful to social sciences.
+Mathematics 21b can be taken before or after Mathematics 18. Examples draw primarily from economics and the social sciences, though Mathematics 18 may be useful to students in certain natural sciences. Students whose main interests lie in the physical sciences, mathematics, or engineering should consider Math or Applied Math 21a. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.
+Mathematics 1b or equivalent, or a 5 on the BC Advanced Placement Examination in Mathematics.
+Anti-Requisite: Not to be taken in addition to Mathematics 21a or Applied Mathematics 21a
+Course Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Mathematics 19

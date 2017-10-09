@@ -1,0 +1,23 @@
+Freshman Seminar 50F
+Artificial and Natural Intelligence (203000)
+Venkatesh Murthy
+2018 Spring (4 Credits)
+Instructor Permissions: Instructor
+Schedule: TBD Enrollment Cap: 12
+What is intelligence? An inquiry into the nature of intelligence can take different forms –philosophical, biological, mathematical or technological. In this Freshman Seminar, we will use machine intelligence (everything from voice recognizing smartphones to Jeopardy-playing computers) as a handle to think about natural intelligence (brains and behavior of animals). Although we will start with big, general questions, we will quickly move to concrete queries about brains and computers. This approach, rather than just starting with brains of animals, may be useful in framing more universal questions independent of the specific architecture of brains of animals.
+Recommended Prep:
+Requirements:
+This Seminar targets students that are interested in brains and computers in equal measure, and are comfortable with analytical thinking. Some basic programming skills in Python, Matlab or equivalent is required to complete assignments—you will receive help with a remedial programming boot camp in the first two weeks.
+Course open to Freshman Students Only
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+         Freshman Seminar 50

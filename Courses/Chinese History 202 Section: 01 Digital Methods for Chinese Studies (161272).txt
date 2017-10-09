@@ -1,0 +1,31 @@
+Chinese History 202 Section: 01 Digital Methods for Chinese Studies (161272)
+Donald Sturgeon
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+R 0100 PM - 0359 PM 18
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Arts and Humanities
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         This course introduces graduate students in Chinese studies to programming skills and digital humanities techniques of direct practical relevance to research in their discipline. It will consist of weekly lectures, each introducing a specific type of technique, followed by an interactive lab session during which students practice applying the technique to data appropriate to their own research. No background in digital methods or programming is assumed, but students are expected to have basic computing skills and are required to bring a suitable laptop to use during the lab sessions. The techniques covered in this course all have broad applicability to topics in Chinese studies, and students will be expected to apply them to their own research topics and relevant texts as arranged during the first few sessions. The course will end with student presentations in which students apply an appropriate selection of the techniques studied to their own research questions.
+While examples and coursework will draw upon Chinese language source materials, students primarily working with other East Asian languages are also encouraged to take this course.
+Course Notes:
+Class Notes:
+Additional Course Attributes:
+This course will be taught by Donald Sturgeon, Postdoctoral Fellow in Chinese Digital Humanities and Social Sciences at the Fairbank Center for Chinese Studies, Harvard University.
+This course will be taught by Donald Sturgeon, EALC College Fellow 2017- 18.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Arts and Humanities
+        HARVARD UNIVERSITY
+9/4/2017 0:39 A

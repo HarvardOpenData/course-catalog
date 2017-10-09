@@ -1,0 +1,9 @@
+Applied Mathematics 203
+Introduction to Disordered Systems and Stochastic Processes (156203)
+Ariel Amir
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+TR 0830 AM - 0959 AM n/a
+The course will familiarize the students with various applications of probability theory, stochastic modeling and random processes, using examples from various disciplines, including physics, biology and economics.
+Recommended Prep: Calculus and linear algebra, basic knowledge of probability theory. Knowledge of MATLAB will be helpful.
+Additional Course Attributes:
+Applied Mathematics 20

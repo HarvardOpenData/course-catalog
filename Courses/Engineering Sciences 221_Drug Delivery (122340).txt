@@ -1,0 +1,20 @@
+Engineering Sciences 221
+Drug Delivery (122340)
+Samir Mitragotri
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0100 PM - 0229 PM n/a
+continuum mechanics is strongly recommended.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Methods to deliver molecules to the human body. Physiological obstacles and engineering solutions. Characterization techniques for drug delivery synthesis and in vitro analysis. Case studies of current pharmaceutical products.
+Recommended Prep: Mathematics 21a,b or Applied Mathematics 21a,b, and Chemistry 5 or Life Sciences 1a.
+Additional Course Attributes:
+Engineering Sciences 22

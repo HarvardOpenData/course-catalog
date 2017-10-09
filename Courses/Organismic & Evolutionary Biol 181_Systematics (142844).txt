@@ -1,0 +1,7 @@
+Organismic & Evolutionary Biol 181
+Systematics (142844)
+Gonzalo Giribet
+2017 Fall (4 Credits) Schedule: MWF 0900 AM - 0959 AM Instructor Permissions: None Enrollment Cap: n/a
+Theory and practice of systematics, emphasizing issues associated with homology statements and alignments, methods of tree reconstruction, and hypothesis evaluation. The course combines theoretical considerations, paying special attention to algorithmic aspects of phylogenetics, with the use of different computer programs for conducting evolutionary and phylogenetic analyses.
+Recommended Prep: OEB 53, LS1b or permission of instructor required. Familiarity with computers, especially PC platforms.
+Additional Course Attributes

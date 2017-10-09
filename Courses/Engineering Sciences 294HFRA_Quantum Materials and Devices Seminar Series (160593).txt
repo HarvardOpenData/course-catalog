@@ -1,0 +1,22 @@
+Engineering Sciences 294HFRA
+Quantum Materials and Devices Seminar Series (160593)
+Robert Westervelt
+2017 Fall (2 Credits) Schedule: R 0400 PM - 0459 PM Instructor Permissions: None Enrollment Cap: n/a
+The Science &Technology Center for Integrated Quantum Materials (Harvard, Howard Univ, and MIT) creates electronics and photonics from Quantum Materials: Atomic Layers (graphene, boron nitride, transition-metal dichalcoginides) for atomic-scale devices, Topological Insulators for corruption-free data channels, and Nitrogen Vacancy Centers in Diamond for single-atom memory. Experts in the field will present seminars about their research.
+Course Notes:
+Class Notes:
+Recommended Prep: Additional Course Attributes:
+Engineering Sciences 294 (ES 294) was formerly Engineering Sciences 114r (ES 114r).
+Students must complete both parts of this course (ES294 parts A and B) within the same academic year in order to receive credit.
+Undergraduate courses in electricity & magnetism and quantum mechanics.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  Full Year Course
+ Indivisible Course
+  FAS: Course Level
+ Primarily for Graduate Students
+           Engineering Sciences 294HFR

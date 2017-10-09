@@ -1,0 +1,8 @@
+Intelligent Systems: Design and Ethical Challenges (160419)
+Barbara Grosz Jeffrey Behrends
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+TR 1130 AM - 1259 PM 24
+For centuries, people have imagined smart machines in fictional stories. Computer systems now communicate in speech and text, learn, negotiate, and work in teams (with people and other systems). These intelligent-systems capabilities raise questions about the impact of such systems on people and societies. This course introduces the basic techniques of AI in the context of (science) fiction imaginings and ethical challenges. It examines the roles of design and of policy in reducing potential negative consequences. The course presumes a basic programming ability, but is accessible to concentrators in the humanities and social sciences as well as science and engineering.
+Class Notes: Enrollment limited to 24 and permission required. Recommended Prep: CS50 or equivalent.
+Additional Course Attributes:
+Computer Science 109

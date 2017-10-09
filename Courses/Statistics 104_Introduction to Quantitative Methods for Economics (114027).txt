@@ -1,0 +1,41 @@
+Statistics 104
+Introduction to Quantitative Methods for Economics (114027)
+Michael Parzen
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MWF 1100 AM - 1159 AM n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+           A rigorous introduction to statistics for students intending to study economics. Examples drawn from finance, decision analysis and economic decision-making. In addition to descriptive statistics, probability, inference and regression modeling, also covers portfolio optimization, decision analysis, and time series analysis. Students with prior exposure to introductory statistics will find some overlap of material but be exposed to new applications and learn more advanced modeling techniques.
+Course Notes: Only one of the following courses may be taken for credit: Statistics 100, 101, 102, 104. This course, when taken for a letter grade, meets the General
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+Additional Course Attributes:
+Education requirement for Empirical and Mathematical Reasoning.
+   Attribute
+ Value(s)
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+             Statistics 10Statistics 104
+Introduction to Quantitative Methods for Economics (114027)
+Michael Parzen
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MWF 1100 AM - 1159 AM n/a
+A rigorous introduction to statistics for students intending to study economics. Examples drawn from finance, decision analysis and economic decision-making. In addition to descriptive statistics, probability, inference and regression modeling, also covers portfolio optimization, decision analysis, and time series analysis. Students with prior exposure to introductory statistics will find some overlap of material but be exposed to new applications and learn more advanced modeling techniques.
+Course Notes: Only one of the following courses may be taken for credit: Statistics 100, 101, 102, 104. This course, when taken for a letter grade, meets the General
+Additional Course Attributes:
+Statistics 10

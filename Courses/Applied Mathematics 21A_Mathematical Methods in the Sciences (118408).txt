@@ -1,0 +1,12 @@
+Applied Mathematics 21A
+Mathematical Methods in the Sciences (118408)
+Sarah Iams
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 1100 AM - 1159 AM n/a
+ Multivariate calculus: functions of two or three variables, approximating functions, partial differentiation, directional derivatives, multiple integration. Vectors: dot and cross products, parameterized curves, line and surface integrals. Vector calculus: gradient, divergence and curl, Green's, divergence and Stokes' theorems. Complex numbers.
+Course Notes: May not be taken for credit by students who have passed Mathematics 21a. This course, when taken for a letter grade, meets the General Education
+requirement for Empirical and Mathematical Reasoning. Recommended Prep: Mathematics 1b or equivalent.
+Additional Course Attributes:
+Applied Mathematics 21

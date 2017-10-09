@@ -1,0 +1,33 @@
+Freshman Seminar 70X
+Decision Theory and Game Theory in the Real World (205178)
+Christopher Avery Richard Zeckhauser
+2017 Fall (4 Credits) Schedule: HARVARD UNIVERSITY
+W 0300 PM - 0459 PM
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+         9/4/2017 0:39 AM
+Instructor Permissions: Instructor Enrollment Cap: 12
+The goal of this seminar is to provide students with building blocks for understanding how to make better decisions. Decision theory, which focuses on how to assess uncertainties and to define preferences across outcomes, is explicitly prescriptive, i.e., explaining what one should do. Game theory engages more complex situations where the choices of other individuals come into play. Nevertheless, acquaintance with the central tools of gam theory should enable students to behave more effectively in interactive situations. It should also help them structure interactive situations in ways that produce collectively superior results.
+The seminar will present some technical material from these two disciplines, but seminar meetings will focus on discussion and applications of those technical results. The only mathematical prerequisite is high school algebra and some knowledge of elementary statistics. However, conceptual thinking will be stressed.
+Course Notes:
+Students will be required to complete answers to three discussion questions during the semester. These questions are designed to prompt detailed reflection about the subject of the readings for a particular topic as well as to promote incisive conversations during the relevant session of the course. We will ask students to submit preferences for these Discussion Questions during the first course meeting and will assign a set of students to each of the subsequent Discussion Questions based on these preferences. Each written answer to a Discussion Question should be on the order of 3 or 4 paragraphs (1-2 double-spaced pages), and should be submitted to the course website by 8 pm the day before the relevant lecture. Students will also be required to complete a 15 to 20 page research paper applying the techniques of the course to a policy application of their choosing.
+The only mathematical prerequisite is high school algebra and some knowledge of elementary statistics.
+Course open to Freshman Students Only
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Freshman Seminar 70Z
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Primarily for Undergraduate Student

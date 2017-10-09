@@ -1,0 +1,25 @@
+Engineering Sciences 120
+Introduction to the Mechanics of Solids (131270)
+Joost Vlassak
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 0100 PM - 0159 PM n/a
+Engineering Sciences 115 is also offered as Applied Mathematics 115. Students may not take both for credit. Undergraduate Engineering Students should enroll in Engineering Sciences 115.
+Applied Mathematics 105. Additional skills in analysis, algebra, probability, statistics and computer programming will increase the value of the course to students.
+Prerequisite: Must take APMTH 105 OR APMTH 108 OR APMTH 104 OR MATH 112 before taking ENG-SCI 115
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         A first course in the mechanical sciences which introduces elements of continuum mechanics and explains how materials and structures stretch, bend, twist, shake, buckle, and break. Stress-strain behavior of materials. Statically determinate and indeterminate structures. Stress and strain, equations of motion or equilibrium, strain-displacement relations. Torsion. Beam theory with applications to beam deflections, vibrations, and buckling. Three laboratory sessions required.
+Recommended Prep: Applied Physics 50a, Physical Sciences 12a, Physics 11a (no longer offered), or 15a and Applied Mathematics 21a or Mathematics 21a
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+(previously) and Applied Mathematics 21b or Mathematics 21b (previously or concurrently).
+Additional Course Attributes:
+Engineering Sciences 12

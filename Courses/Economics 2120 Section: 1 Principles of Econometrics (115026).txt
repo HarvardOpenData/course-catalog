@@ -1,0 +1,18 @@
+Economics 2120 Section: 1 Principles of Econometrics (115026)
+Gary Chamberlain
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+MW 0100 PM - 0229 PM n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Social Sciences
+         Linear predictor as approximation to conditional expectation function. Least-squares projection as sample counterpart. Splines. Omitted variable bias and panel data. Bayesian inference for parameters defined by moment conditions. Finite sample frequentist inference for the normal linear model. Statistical decision theory and dominating least squares with many predictor variables; applications to estimating fixed effects (teacher effects, place effects) using panel data. Asymptotic inference in the generalized method of moments framework. Likelihood inference using information measures to define best approximations within parametric models. Instrumental variable models and the role of random assignment; applications include models of demand and supply and the evaluation of treatment effects.
+Course Notes:
+Recommended Prep: Additional Course Attributes:
+Economics 214

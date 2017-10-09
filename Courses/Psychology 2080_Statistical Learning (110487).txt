@@ -1,0 +1,29 @@
+Psychology 2080
+Statistical Learning (110487)
+Patrick Mair
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+W 0930 AM - 1159 AM 20
+Required of first- or second-year Harvard doctoral students in clinical psychology or experimental psychopathology. Open to other graduate students in the Psychology Department with permission of instructor.
+  Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Social Sciences
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+          This course focuses on modern methods from the areas of Statistical Learning and Machine Learning (and Data Science). The first series of lectures covers basic regression techniques for ordinal data (ordinal/multinomial logit models) as well as advanced techniques such as generalized additive models, shrinkage methods, and friends. The next series covers advanced techniques of principal component analysis (PCA) such as independent component analysis (ICA), sparse PCA, and nonlinear (categorical) PCA. Another lecture series deals with clustering techniques such as simple hierarchical clustering, k-means, BIRCH, affinity propagation, and mixture models. The mixture model approach will then be embedded into a regression context in order to estimate regression models with unobserved heterogeneity. Finally, there will be a couple units on functional data analysis (FDA). All topics covered will be supported by corresponding computations in R. Lab units will focus R programming (R infrastructure, object oriented principles, package building) and on special topics such as fMRI data analysis in R.
+Recommended Prep: It is required that students completed Psych 1950 or an equivalent class. Students need to be solid in multiple regression analysis including mixed-
+Additional Course Attributes:
+Psychology 2151
+effects models. R knowledge is absolutely necessary
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Social Sciences
+  All: Cross Reg Availability
+ Available for Harvard Cross Registratio

@@ -1,0 +1,18 @@
+Statistics 100
+Introduction to Quantitative Methods for the Social Sciences and Humanities (113431)
+Kerrie Nelson
+2017 Fall (4 Credits) Schedule: MW 0100 PM - 0229 PM Instructor Permissions: None Enrollment Cap: n/a
+"Introduction to key ideas underlying statistical and quantitative reasoning. Topics covered: methods for organizing, summarizing and displaying data; elements of sample surveys, experimental design and observational studies; methods of parameter estimation and hypothesis testing in one- and two-sample problems; regression with one or more predictors; correlation; and analysis of variance. Explores applications in a wide range of fields, including the social and political sciences, medical research, and business and economics."
+Course Notes: Only one of the following courses may be taken for credit: Statistics 100,
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         
+Additional Course Attributes:
+Statistics 10

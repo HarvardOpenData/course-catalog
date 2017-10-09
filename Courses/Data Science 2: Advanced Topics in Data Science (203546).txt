@@ -1,0 +1,39 @@
+Data Science 2: Advanced Topics in Data Science (203546)
+Mark Glickman Margo Levine
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MW 0100 PM - 0229 PM n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  GSD: MDS/MDE Rec. Elec.
+ MDE recommended elective
+  Full Year Course
+ Divisible Course
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+             Data Science 2 is the second half of a one-year introduction to data science. Building upon the material in Data Science 1, the course introduces advanced methods for data wrangling, data visualization, and statistical modeling and prediction. Topics include big data and database management, interactive visualizations, nonlinear statistical models, and deep learning. Part two of a two part series. The curriculum for this course builds throughout the academic year. Students are strongly encouraged to enroll in both the fall and spring course within the same academic year.
+Course Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Can only be taken after successful completion of CS 109a, AC 209a, Stat 121a, or equivalent. Students who have previously taken CS 109, AC 209, or Stat 121 cannot take CS 109b, AC 209b, or Stat 121b for credit.
+CS 109a, AC 209a, or Stat 121a required.
+Requisite: (Must take CS 109A OR APCOMP 209A OR STAT 121A before taking CS 109B) AND (Not to be taken in addition to CS 109, OR APCOMP 209, OR APCOMP 209B, OR STAT 121, OR STAT 121B.)
+   Attribute
+ Value(s)
+  Full Year Course
+ Divisible Course
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  GSD: MDS/MDE Rec. Elec.
+ MDE recommended elective
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+            HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+ Computer Science 12

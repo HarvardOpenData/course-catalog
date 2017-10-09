@@ -1,0 +1,29 @@
+Engineering Sciences 166
+State-of-the-art Instrumentation in Environmental Sciences (161263)
+Frank Keutsch
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MW 1130 AM - 1259 PM n/a
+   Attribute
+ Value(s)
+  GSD: MDS/MDE Rec. Elec.
+ MDE recommended elective
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+           This course will showcase how novel technologies have allowed fascinating new insights into key aspects of our environment. The development of novel instrumentation, driven by technological advances, is revolutionizing the
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+environmental sciences. The new instruments are transforming observations in many ways. For example, they introduce new observables and extend the spatial and temporal coverage and resolution of (Earth) observations. The observations are advancing our understanding of environmental science topics that are of high societal relevance (e.g., climate change and air pollution). This course will highlight how state-of-the-art instrument design has enabled these fascinating advances by focusing on the physics, chemistry, and engineering principals that are central to this success. The course will also focus on the special requirements for these instruments (e.g., ruggedness and robotic operation) resulting from their deployment in the environment on a variety of observational platforms. In addition, the course will discuss challenges associated with determination of accuracy of instruments that are inaccessible after deployment (e.g., on satellites or oceanic probes).
+Course Notes:
+Recommended Prep: Additional Course Attributes:
+ES 96 (Anderson section) focuses on the implementation of the design and engineering process for one specific example instrument. In contrast, this course is more broad and will provide an overview of instrumentation across multiple environments and technologies. These courses would be complementary, and students could benefit by taking both courses in the same semester or in either order.
+Math 1a, b; PS 11 or equivalent; PS 12a, b (or Physics 15a, b or AP 50a, b).
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+       Engineering Sciences 16

@@ -1,0 +1,19 @@
+Applied Mathematics 217
+Instabilities and Patterns in Soft Matter and Biophysics (204956)
+Lakshminarayanan Mahadevan
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+TR 0100 PM - 0229 PM 15
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Undergraduate Students
+         The course discusses various kinds of instabilities in soft matter systems including active swarms, gels, droplets, HARVARD UNIVERSITY 9/4/2017 0:39 AM
+filament assemblies, and disordered solids. After an introduction to bifurcation theory and spatio-temporal instabilities, we discuss in each lecture a new class of systems where an instability occurs, often leading to patterns, failure, or sudden shape, flow or transport changes. Each lecture consists of an introductory segment and then bridges to current research topics. We will offer mini research projects the student can complete until the end of the term.
+Recommended Prep: ODE/PDE (at the level of APMTH105), Basic computational methods (APMTH111 or equivalent), some basics of hydrodynamics, statistical
+mechanics and nonequilibrium thermodynamics.
+Additional Course Attributes:
+Applied Mathematics 22

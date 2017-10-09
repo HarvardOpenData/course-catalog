@@ -1,0 +1,9 @@
+Available for Harvard Cross Registration
+         Real Analysis, Convexity, and Optimization (118302)
+Paul Bamberg
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+M 0200 PM - 0359 PM n/a
+Develops the theory of convex sets, normed infinite-dimensional vector spaces, and convex functionals and applies it as a unifying principle to a variety of optimization problems such as resource allocation, production planning, and optimal control. Topics include Hilbert space, dual spaces, the Hahn-Banach theorem, the Riesz representation theorem, calculus of variations, and Fenchel duality. Students will be expected to understand and invent proofs of theorems in real and functional analysis. This course will not be offered in 2018-19.
+Recommended Prep:
+Additional Course Attributes:
+Mathematics 118

@@ -1,0 +1,17 @@
+Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference and Optimization (127561)
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+  Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+          
+Rahul Dave
+2018 Spring (4 Credits) Schedule: TR 1130 AM - 1259 PM Instructor Permissions: None Enrollment Cap: n/a
+Develops skills for computational research with focus on stochastic approaches, emphasizing implementation and examples. Stochastic methods make it feasible to tackle very diverse problems when the solution space is too large to explore systematically, or when microscopic rules are known, but not the macroscopic behavior of a complex system. Methods will be illustrated with examples from a wide variety of fields, like biology, finance, and physics.
+Recommended Prep: Basic knowledge of a computer programming language (preferably Python), basic knowledge of statistics.
+Additional Course Attributes:
+Applied Mathematics 21

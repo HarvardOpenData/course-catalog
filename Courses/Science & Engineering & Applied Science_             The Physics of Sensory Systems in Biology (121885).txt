@@ -1,0 +1,8 @@
+Science & Engineering & Applied Science
+             The Physics of Sensory Systems in Biology (121885) HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Aravinthan Samuel
+2017 Fall (4 Credits) Schedule: TR 0230 PM - 0359 PM Instructor Permissions: Instructor Enrollment Cap: n/a
+Living organisms use sensory systems to inform themselves of the sights, sounds, and smells of their surrounding environments. Sensory systems are physical measuring devices, and are therefore subject to certain limits imposed by physics. Here we will consider the physics of sensory measurement and perception, and study ways that biological systems have solved their underlying physical problems. We will discuss specific cases in vision, olfaction, and hearing from a physicist's point of view.
+Recommended Prep: Additional Course Attributes:
+Physics 143

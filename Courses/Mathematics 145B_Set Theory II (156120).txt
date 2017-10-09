@@ -1,0 +1,21 @@
+Mathematics 145B
+Set Theory II (156120)
+W. Hugh Woodin
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 0100 PM - 0159 PM n/a
+Mathematics 25 or 101.
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         An introduction to large cardinals and their inner models, with special emphasis on Woodin's recent advances toward finding an ultimate version of Godel's L. Topics include: Weak extender models, the HOD Dichotomy Theorem, and the HOD Conjecture.
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+Requirements:
+Additional Course Attributes:
+Mathematics 15

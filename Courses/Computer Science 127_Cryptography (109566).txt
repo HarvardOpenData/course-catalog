@@ -1,0 +1,21 @@
+Computer Science 127
+Cryptography (109566)
+Boaz Barak
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+Course enrollment limited to 30. STAT 110 and COMPSCI 124
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Undergraduate Students
+          Cryptography is as old as human communication itself, but has undergone a revolution in the last few decades. It is now about much more than "secret writing" and includes seemingly paradoxical notions such as communicating securely without a shared secret, and computing on encrypted data. In this challenging but rewarding course we will start from the basics of private and public key cryptography and go all the way up to advanced notions such as fully homomorphic encryption and software obfuscation. This is a proof-based course that will be best appreciated by mathematically mature students.
+Course Notes: This course will be offered in both an undergraduate and graduate versions. The graduate version will involve an additional project.
+Recommended Prep: Comfort with mathematical proofs at the level of CS121, CS124 or similar. Please contact the instructor if you're unsure if your background is sufficient.
+Additional Course Attributes:
+Computer Science 134 Section: 

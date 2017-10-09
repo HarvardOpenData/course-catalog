@@ -1,0 +1,20 @@
+Mathematics 252X
+Configuration Spaces in Algebraic Topology (204921)
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         Benjamin Knudsen
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 0200 PM - 0259 PM n/a
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+An introduction to configuration spaces emphasizing both their intrinsic geometric interest and their connections to other areas. Possible topics: computations of (co)homology and homotopy groups, cell decompositions, homological stability, failure of homotopy invariance, and stable splittings of mapping spaces.
+Additional Course Attributes:
+Mathematics 25

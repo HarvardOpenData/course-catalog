@@ -1,0 +1,12 @@
+Computer Science 227R
+Cryptography (114490)
+Boaz Barak
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+Cryptography is as old as human communication itself, but has undergone a revolution in the last few decades. It is now about much more than "secret writing" and includes seemingly paradoxical notions such as communicating securely without a shared secret, and computing on encrypted data. In this challenging but rewarding course we will start from the basics of private and public key cryptography and go all the way up to advanced notions such as fully homomorphic encryption and software obfuscation. This is a proof-based course that will be best appreciated by mathematically mature students.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Computer Science 22

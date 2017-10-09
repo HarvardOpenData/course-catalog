@@ -1,0 +1,37 @@
+Mathematics 19A
+Modeling and Differential Equations for the Life Sciences (110596)
+John Cain
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MWF 0100 PM - 0159 PM n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS: Course Level
+ Primarily for Undergraduate Students
+             Considers the construction and analysis of mathematical models that arise in the life sciences, ecology and environmental life science. Introduces mathematics that include multivariable calculus, differential equations in one or more variables, vectors, matrices, and linear and non-linear dynamical systems. Taught via examples from current literature (both good and bad).
+Course Notes:
+Recommended Prep: Additional Course Attributes:
+This course is recommended over Math 21a for those planning to concentrate in the life sciences and ESPP. Can be taken with or without Mathematics 21a,b. Students with interests in the social sciences and economics might consider Mathematics 18. This course can be taken before or after Mathematics 18. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.
+A course in one variable calculus preferably at the level of Mathematics 1b.
+  Attribute
+ Value(s)
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS: Core Curriculum
+ Quantitative Reasoning
+       HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+   All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+      Mathematics 19

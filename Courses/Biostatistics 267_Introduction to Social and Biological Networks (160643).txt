@@ -1,0 +1,17 @@
+Biostatistics 267
+Introduction to Social and Biological Networks (160643)
+Jukka-Pekka Onnela
+2017 Fall (2 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+MW 0345 PM - 0515 PM 8
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         Many systems of scientific and societal interest consist of a large number of interacting components. The structure of these systems can be represented as networks where network nodes represent the components and network edges the interactions between the components. Network analysis can be used to study how pathogens, behaviors and information spread in social networks, having important implications for our understanding of epidemics and the planning of effective interventions. In a biological context, at a molecular level, network analysis can be applied to gene regulation networks, signal transduction networks, protein interaction networks, and more. This introductory course covers some basic network measures, models, and processes that unfold on networks. The covered material applies to a wide range of networks, but we will focus on social and biological networks. To analyze and model networks, we will learn the basics of the Python programming language and its NetworkX module.
+The course contains a number of hands-on computer lab sessions. There are five homework assignments and four reading assignments that will be discussed in class. In addition, each student will complete a final project that applies network analysis techniques to study a public health problem.
+Additional Course Attributes:
+Biostatistics 28

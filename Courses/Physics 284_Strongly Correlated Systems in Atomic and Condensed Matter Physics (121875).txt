@@ -1,0 +1,15 @@
+Physics 284
+Strongly Correlated Systems in Atomic and Condensed Matter Physics (121875)
+Eugene Demler
+2018 Spring (4 Credits) Schedule: TBD Instructor Permissions: None Enrollment Cap: n/a
+Explores an emerging interface involving strongly correlated systems in atomic and condensed matter physics. Topics include bosonic and fermionic Hubbard models, strongly interacting systems near Feshbach resonances, magnetism of ultracold atoms, topological states, low dimensional systems, polarons, disorder in interacting systems and many-body localization, Dicke model and superradiance.
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Recommended Prep: Graduate quantum mechanics or permission of instructor. Additional Course Attributes:
+Physics 285

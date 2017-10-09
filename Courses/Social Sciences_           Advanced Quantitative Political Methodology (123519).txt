@@ -1,0 +1,22 @@
+Social Sciences
+           Advanced Quantitative Political Methodology (123519)
+Gary King
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+M 0200 PM - 0359 PM n/a
+Introduces theories of inference underlying most statistical methods and how new approaches are developed. Examples include discrete choice, event counts, durations, missing data, ecological inference, time-series cross sectional analysis, compositional data, causal inference, and others.
+Recommended Prep:
+Requirements:
+Government 2000 or the equivalent.
+Prerequisite: Government 2000
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Social Sciences
+         Government 100

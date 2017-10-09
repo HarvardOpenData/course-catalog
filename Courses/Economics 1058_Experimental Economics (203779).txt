@@ -1,0 +1,20 @@
+Economics 1058
+Experimental Economics (203779)
+Lucas Coffman
+2018 Spring (4 Credits)
+Instructor Permissions: Instructor
+Schedule: TBD Enrollment Cap: 30
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Social Sciences
+         This class is an introduction to experimental methods, particularly those developed by Economics. We will discuss in detail all of the steps of an experiment, from design, measurement and randomization, to cost and power analyses. This is strictly a methods course; the experiments we discuss are chosen to give a broad understanding of experimental methods, not a foundation of famous experimental results. Similarly, when we discuss a topic, for example experiments in incentives, the discussion will not be centered on how to optimally incentivize employees, but rather, how to design a careful, controlled experiment to precisely understand how your employees respond to
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+incentives you think might be appropriate.
+There are two main value-addeds from this course. First, you will be equipped to design andrun an experiment to answer important questions (whether those questions are academic or forthe purpose of an organization for which you are working). Second, in understanding what the optimal experimental design should look like, you will be armed with better lenses through which to view naturally existing data. That is, contrasting the process that produced the naturally existing data with a hypothetical experimental design, you will be able to better judge the faults, and systematic biases, that will affect the data to which you have access.
+Additional Course Attributes:
+Economics 1080 Section: 

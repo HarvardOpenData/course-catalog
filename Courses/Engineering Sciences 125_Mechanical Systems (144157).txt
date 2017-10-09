@@ -1,0 +1,17 @@
+Engineering Sciences 125
+Mechanical Systems (144157)
+Katia Bertoldi
+2017 Fall (4 Credits) Schedule: MW 0100 PM - 0229 PM Instructor Permissions: None Enrollment Cap: n/a
+Modeling and analysis of mechanical and electromechanical systems. Topics include 3D rigid body dynamics, resonance, damping, frequency response, Laplace transform methods, Lagrange's equations, multiple degree-of- freedom systems and an introduction to nonlinear vibration, continuous systems, and control. Analytical modeling will be supplemented with numerical simulations and lab experiments. Laboratory exercises will explore vibration, stabilization, and nonlinear systems using data acquisition systems.
+Recommended Prep: Applied Mathematics 21a,b or Mathematics 21a,b or Mathematics 23a,b; Applied Physics 50a, Physical Sciences 12a, Physics 11a (no longer
+Additional Course Attributes:
+offered), or 15a.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Engineering Sciences 12

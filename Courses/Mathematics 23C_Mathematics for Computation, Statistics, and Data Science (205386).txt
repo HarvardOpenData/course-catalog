@@ -1,0 +1,13 @@
+Mathematics 23C
+Mathematics for Computation, Statistics, and Data Science (205386)
+Paul Bamberg
+2018 Spring (4 Credits) Schedule: TR 1130 AM - 1259 PM Instructor Permissions: None Enrollment Cap: n/a
+Proof strategies and logic. Sets, countability, sigma fields, and axiomatic foundations of probability. Summation of series and evaluation of multiple integrals, with emphasis on calculation of expectation and variance. Abstract vector spaces and inner product spaces, with applications to analysis of large datasets. Key functions and theorems of mathematical statistics. A brief introduction to classical vector calculus as used in electromagnetic theory. Students will learn to use some of the statistical and graphical display tools in the R scription language.
+This course is a sequel to Mathematics 23a, recommended for students who are not sure of their concentration or who are thinking about a concentration in the social sciences, economics, computer science, life sciences or data science. Graduate students wishing to take this course for credit should speak with Dr. Bamberg to arrange enrollment in Mathematics 370 instead.
+Mathematics 23a or Mathematics 21a and 21b. The latter option is for seniors who are preparing for graduate programs in statistics, computer science, or data science.
+Prerequisite: MATH 23A OR (MATH 21A AND MATH 21B) AND (Not to be taken in addition to MATH 23B)
+Course Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Mathematics 25

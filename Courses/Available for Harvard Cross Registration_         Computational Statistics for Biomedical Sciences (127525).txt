@@ -1,0 +1,19 @@
+Available for Harvard Cross Registration
+         Computational Statistics for Biomedical Sciences (127525)
+Peter Park
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+TR 1000 AM - 1129 AM 60
+Analysis of large datasets has become an integral part of biological and biomedical sciences. This course will provide a practical introduction to data analysis, with high-throughput sequencing data as the main source of examples. In the first half, it will cover basic statistical concepts and techniques, including hypothesis testing, nonparametric methods, principal component analysis, correlation analysis, and linear regression. In the second half, it will cover several advanced topics, focusing on issues that one encounters in the literature but are seldom covered in introductory statistics courses. To carry out statistical tests and visualize data, students will learn R, a powerful programming language for statistical computing and graphics. The class will be a combination of lectures and computer labs. We will use recent literature to motivate the statistical methods, and assignments will frequently include attempts to reproduce published findings.
+Course Notes: Offered jointly with Medical School as BMI713.0. Please contact Katherine Flannery at
+Katherine_Flannery@hms.harvard.edu for any inquiries about the course.
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ None
+        HARVARD UNIVERSITY 9/4/2017 0:39 AM
+ Genetics 30

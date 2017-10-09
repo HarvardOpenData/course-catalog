@@ -1,0 +1,34 @@
+Statistics 123
+Quantitative Finance (126048)
+Stephen Blyth
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+Can only be taken after successful completion of CS 109a, AC 209a, Stat 121a, or equivalent. Students who have previously taken CS 109, AC 209, or Stat 121 cannot take CS 109b, AC 209b, or Stat 121b for credit.
+: CS 109a, AC 209a, or Stat 121a required.
+Requisite: (Must take CS 109A OR APCOMP 209A OR STAT 121A before taking STAT 121B) AND (Cannot take STAT 121B, if already taken STAT 121 OR CS 109 OR CS 109B OR APCOMP 209 OR APCOMP 209B)
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  Full Year Course
+ Divisible Course
+            Introduction to financial derivatives and the probabilistic techniques used to analyze them. Topics include: forwards, swaps and options; replication, no-arbitrage and risk-neutrality; martingales, numeraires and the fundamental theorem of asset pricing; and an introduction to interest-rate derivatives and their valuation. Provides a rigorous but accessible treatment of the elegant theory underpinning quantitative finance, motivated by real problems from the financial industry.
+Course Notes:
+Recommended Prep: Additional Course Attributes:
+Statistics 131
+Designed for those seeking an understanding of the quantitative challenges on Wall Street and the probabilistic tool-kit developed to address them.
+Statistics 110 or equivalent.
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Student

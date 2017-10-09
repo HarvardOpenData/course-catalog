@@ -1,0 +1,10 @@
+Economics 2110 Section: 1 Econometrics I (120668)
+Steve Cicala
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 0100 PM - 0229 PM n/a
+Economics 2110 and 2115 comprise a two-course sequence for first-year graduate students seeking training in econometric methods at a level that prepares them to conduct professional empirical research. Economics 2110 (fall) reviews probability and statistics, then covers the fundamentals of modern econometrics, with a focus on regression methods for causal inference in observational and experimental data. Prerequisites: undergraduate courses in probability and statistics, regression analysis, linear algebra, and multivariate calculus.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes

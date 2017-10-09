@@ -1,0 +1,17 @@
+Mathematics 229X Section: LECT Introduction to Analytic Number Theory (123242)
+Hector Pasten Vasquez
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 1100 AM - 1159 AM n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Fundamental methods, results, and problems of analytic number theory. Riemann zeta function and the Prime Number Theorem; Dirichlet's theorem on primes in arithmetic progressions; lower bounds on discriminants from functional equations; sieve methods, analytic estimates on exponential sums, and their applications.
+Recommended Prep: Knowledge of the material in Mathematics 113 and 123. Additional Course Attributes:
+Mathematics 230

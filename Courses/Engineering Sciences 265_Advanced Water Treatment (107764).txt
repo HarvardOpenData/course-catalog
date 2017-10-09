@@ -1,0 +1,11 @@
+Engineering Sciences 265
+Advanced Water Treatment (107764)
+Chad Vecitis
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+M 0100 PM - 0259 PM n/a
+Advanced Water Treatment will give students detailed instruction in emerging technologies for municipal wastewater treatment, industrial wastewater treatment, wastewater reclamation and reuse, desalination, and groundwater remediation. The course will begin by introducing wastewater quality, effluent water quality endpoints, and conventional treatment methodologies. The theoretical focus of the course will be on the fundamental biology, chemistry, and physics of processes including nanofiltration, reverse osmosis, membrane bioreactors, denitrification and phosphate removal, ozonolysis, UV photolysis, photocatalysis, and sonolysis. We will also discuss wastewater- to-energy processes including microbial fuel cells, anaerobic digestion, and electrochemical waste-to-hydrogen.
+Course Notes: Offered in alternate years. Recommended Prep: Engineering Sciences 165
+Additional Course Attributes:
+Engineering Sciences 26

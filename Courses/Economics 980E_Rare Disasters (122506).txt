@@ -1,0 +1,30 @@
+Economics 980E
+Rare Disasters (122506)
+Robert Barro
+2018 Spring (4 Credits)
+Instructor Permissions: Instructor
+Schedule: TBD Enrollment Cap: n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+  FAS Divisional Distribution
+ Social Sciences
+         This junior seminar covers research on rare macroeconomic disasters. Throughout history, the world economy has been heavily influenced by the realization and possibility of these disaster events, which include the Great Depression of the 1930s, the two world wars, and the Great Influenza Epidemic of 1918 20. The recent Great Recession threatened to be another of these adverse global events but the results, though serious, turned out to fall short of commonly specified disaster thresholds. Other cases, such as the Chilean revolution in the 1970s, the Asian Financial Crisis of the late 1990s, and the Spanish Civil War, involved only one or a few countries. Empirical research on these events has been facilitated by a recently constructed long-term data set on national-accounts variables for 42 countries.
+One research area concerns implications of potential disaster events for asset markets, including explanations for the high expected return on equity and the low risk-free rate of return; that is, the equity-premium puzzle. A recent application uses prices of far-out-of-the-money put options on broad stock-market indices for several countries to infer time-varying probabilities of macro disaster, as viewed by financial-market participants. Other applications consider exchange rates and interest rates, the term structure of interest rates, the quantity of safe assets, and the pricing of forms of derivatives.
+Another area deals with the implications of rare macro disasters for closed- and open-economy models of business cycles. A possible future application involves rare disasters in conjunction with long-term economic growth.
+Participants in this junior seminar will write a research paper that carries out new research or critiques an existing area of work.
+Recommended Prep: Economics 1745 is recommended but not required. Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Social Sciences
+  FAS: Course Level
+ Primarily for Undergraduate Students
+        HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+ Economics 980

@@ -1,0 +1,26 @@
+Molecular & Cellular Biology 353
+Building Your Own Microscope (160485)
+Venkatesh Murthy
+2018 Spring (2 Credits)
+Instructor Permissions: Instructor
+Schedule: TBD Enrollment Cap: n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Graduate Course
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Microscopes of various sorts are used by most biologists, who typically buy these off the shelf. With a little knowledge, however, most biologists can build their own microscopes to do many of the things that the commercial ones do. In this quarter course, you will learn to build an epifluorescence microscope and to acquire images using a computer.
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+    HARVARD UNIVERSITY 9/4/2017 0:39 AM
+   FAS: Course Level
+ Graduate Course
+  FAS Divisional Distribution
+ None
+    Molecular & Cellular Biology 35

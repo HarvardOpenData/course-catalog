@@ -1,0 +1,44 @@
+Mathematics 23B
+Linear Algebra and Real Analysis II (145010)
+Paul Bamberg
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+mathematics, the physical sciences, or engineering) or Mathematics 23c (recommended for students who are not sure of their concentration, or who are thinking about a concentration in the social sciences, economics, computer science, life sciences or data science). Either alternative will provide a solid foundation for a concentration in mathematics or any field that uses mathematics. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.
+Mathematics 1b or a grade of 4 or 5 on the Calculus BC Advanced Placement Examination, plus an interest both in proving mathematical results and in using them. No background in linear algebra, real analysis, or multivariable calculus is assumed.
+  Attribute
+ Value(s)
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+              A rigorous, integrated treatment of linear algebra and multivariable calculus. Topics: Riemann and Lebesgue integration, determinants, change of variables, volume of manifolds, differential forms, and exterior derivative. Stokes's theorem is presented both in the language of vector analysis (div, grad, and curl) and in the language of differential forms.
+Course Notes:
+Class Notes: Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Mathematics 23b is a sequel to Mathematics 23a, recommended for students who are thinking of concentrating in mathematics, the physical sciences, or engineering. Students are expected to watch videos of the lectures from spring 2016 before attending class. Weekly two-hour classes will consist of a one-hour seminar in which students present key definitions and proofs and a one-hour activity-based session in which students work in small groups to solve problems. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.
+Section times: Friday 12-2, Friday 1-3 Mathematics 23a.
+Prerequisite: MATH 23A OR (MATH 21A AND MATH 21B) AND (Not to be taken in addition to MATH 23C)
+   Attribute
+ Value(s)
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+    HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+   FAS: Core Curriculum
+ Quantitative Reasoning
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Undergraduate Students
+        Mathematics 23

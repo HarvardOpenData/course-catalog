@@ -1,0 +1,15 @@
+Mathematics 231BR
+Advanced Algebraic Topology (123433)
+Alexander Kupers
+2018 Spring (4 Credits) Schedule: TR 1000 AM - 1129 AM Instructor Permissions: None Enrollment Cap: n/a
+Continuation of Mathematics 231a. Vector bundles and characteristic classes. Bott periodicity. K-theory, cobordism and stable cohomotopy as examples of cohomology theories.
+Recommended Prep: Knowledge of the material in Mathematics 231a. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+         Mathematics 232

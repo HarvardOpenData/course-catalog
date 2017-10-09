@@ -1,0 +1,26 @@
+Statistics 149
+Statistical Sleuthing through Generalized Linear Models (118974)
+Mark Glickman
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MW 0830 AM - 0959 AM n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Sequel to Statistics 139, emphasizing common methods for analyzing continuous non-normal and categorical data. Topics include logistic regression, log-linear models, multinomial logit models, proportional odds models for ordinal data, Gamma and inverse-Gaussian models, over-dispersion, analysis of deviance, model selection and criticism, model diagnostics, and an introduction to non-parametric regression methods.
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+Course Notes: Examples will be drawn from several fields, particularly from biology and social sciences.
+Recommended Prep: Statistics 139 or with permission of instructor. Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Statistics 16

@@ -1,0 +1,28 @@
+Visual Circuits: How Neurons and Networks See (205103)
+2018 Spring (2 Credits) Schedule: M 0700 PM - 0829 PM Instructor Permissions: Instructor Enrollment Cap: 12
+Vision is arguably our most dominant and most important sense. The visual system processes vast amounts of data continuously, and it can identify relevant objects in our complex environment faster and more accurately than any artificial system. Yet, as recently as 2012, a revolution in computer vision has begun to allow computers to approach human level performance, in some cases even outperforming humans. What led to this improvement? Deep neural networks: several neural networks stacked on top of each other. These networks have some striking similarities to circuits of the human visual system, and by studying them, we can learn about how our brains' own circuits function. In this class, we will learn both the fundamentals of the visual system circuitry (from retina to the visual cortex) as well as the structure and logic of neural network algorithms. In doing so, we will learn how artificial and natural networks can parse and recognize objects, detect direction and speed of motion, and modulate attention. We will be studying neural networks conceptually, so no prerequisites in math or computer science are needed.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+          Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         HARVARD UNIVERSITY 9/4/2017 0:39 AM
+Requirements:
+Additional Course Attributes:
+Prerequisite: (LPS A OR LS 1A ) AND (MCB 80 OR MCB 81)
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+       Neurobiology - Undergraduate 12

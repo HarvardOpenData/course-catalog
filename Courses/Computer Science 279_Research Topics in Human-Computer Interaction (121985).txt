@@ -1,0 +1,19 @@
+Computer Science 279
+Research Topics in Human-Computer Interaction (121985)
+Krzysztof Gajos
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         The course covers major areas of inquiry and core research methods in Human-Computer Interaction including experimental design, statistical data analysis, and qualitative methods. Activities will include discussion of primary literature, a small number of lectures, assignments (design, execution and analysis of both lab-based and on-line experiments), and a research project. Special focus this year is on social computing and crowd-powered systems. Specifically, we will look at the design and analysis of systems, in which crowds of intrinsically motivated volunteers contribute to meaningful and non-trivial human computation tasks as a byproduct of doing something that they are motivated to do anyway.
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Computer Science 28

@@ -1,0 +1,21 @@
+Statistics 365R
+Philosophical Foundations of Statistics (204454)
+Joseph Blitzstein Xiao-Li Meng
+2018 Spring (4 Credits) HARVARD UNIVERSITY
+Schedule:
+M 0530 PM - 0759 PM
+Statistics 317 is also offered as Computer Science 282r. Students may not take both for credit.
+Students will be expected to be comfortable with distributions and inference at the level of something like CS281. Practically: Can you derive and implement Bayesian linear regression for a modestly-sized data set? A Gibbs sampler for a mixture model? An importance sampler for a given distribution?
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Graduate Course
+  FAS Divisional Distribution
+ None
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         9/4/2017 0:39 AM
+Instructor Permissions: Instructor Enrollment Cap: 30
+Controversies, paradoxes, fallacies, and philosophical issues in the foundations of probability and statistics. Bayesian vs. frequentist vs. fiducial; objective vs. subjective; design-based vs. model-based; low assumption vs. high assumption; robustness vs. relevance; population inference vs. individualized prediction.
+Recommended Prep: Prerequisites are Stat 210 and 211, with 213 and 220 recommended Additional Course Attributes:
+Statistics 388

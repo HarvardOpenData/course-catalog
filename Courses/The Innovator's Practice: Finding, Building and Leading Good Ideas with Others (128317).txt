@@ -1,0 +1,9 @@
+The Innovator's Practice: Finding, Building and Leading Good Ideas with Others (128317)
+Beth Altringer
+2017 Fall (4 Credits) Schedule: MW 0900 AM - 1059 AM Instructor Permissions: Instructor Enrollment Cap: n/a
+Students gain experience overcoming many under-represented challenges of becoming an innovator, including: identifying your intrinsic motivations, finding related good ideas, working effectively with others to develop them, and leading innovative professional projects to implementation. Students apply human-centered design processes (observing, interpreting, ideating, testing, refining, planning) to stimulate innovation, negotiate, strategize, and build and lead cooperative teams. Features guest speakers from industry, academia, and involves collaborating with cutting-edge companies.
+Offered jointly with the Design School as SCI-06271.
+NOTE for Fall 2017: This year, this course will be a smaller than usual seminar course. The first quarter of the term begins with a reflection of what we have learned from teaching the course for six years. The rest of the course will proceed with a theme of research, discussion, reflection, and content creation around the topic of human-centered algorithm design. We will study how popular algorithms like AirBnB and Tinder are designed today, where their designs might have unintended negative consequences, and how they might be designed better in the future.
+Course Notes: Class Notes:
+Additional Course Attributes:
+Engineering Sciences 2

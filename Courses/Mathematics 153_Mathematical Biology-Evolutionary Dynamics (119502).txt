@@ -1,0 +1,27 @@
+Mathematics 153
+Mathematical Biology-Evolutionary Dynamics (119502)
+Martin Nowak
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Introduces basic concepts of mathematical biology and evolutionary dynamics: evolution of genomes, quasi- species, finite and infinite population dynamics, chaos, game dynamics, evolution of cooperation and language, spatial models, evolutionary graph theory, infection dynamics, somatic evolution of cancer.
+Recommended Prep: Mathematics 19a,b or 21a,b or 23a,b or 25a,b or 55a,b; or an equivalent background in mathematics.
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Mathematics 15

@@ -1,0 +1,31 @@
+Physics 16
+Mechanics and Special Relativity (111197)
+Howard Georgi Carey Witkov Keith Zengel
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1130 AM - 1259 PM n/a
+Newtonian mechanics and special relativity for students with good preparation in physics and mathematics at the level of the advanced placement curriculum. Topics include oscillators damped and driven and resonance (how to rock your car out of a snow bank or use a swing), an introduction to Lagrangian mechanics and optimization, symmetries and Noether's theorem, special relativity, collisions and scattering, rotational motion, angular momentum, torque, the moment of inertia tensor (dynamic balance), gravitation, planetary motion and a little glimpse of quantum mechanics.
+Course Notes:
+Recommended Prep:
+Principles of Scientific Inquiry (PSI) is the laboratory component of Physics 16. Topics include experimental design, model testing, error analysis, basic programming, oral presentations, and scientific writing. PSI will meet weekly throughout the semester. Emphasis is placed on collaborative teaching and learning. Many class materials are Mathematics notebooks. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.
+Score of 5 on the mechanics section of the Physics C Advanced Placement exam, or equivalent. Mathematics preparation at least at the level of
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+Mathematics 21a taken concurrently is required. Thorough knowledge of calculus of one variable and vectors plus some mathematical sophistication. The mathematical level will be significantly higher than that of Physics 15a. If in doubt, check the Canvas site ahead of time, or email the professor at hgeorgi@fas.harvard.edu, or just shop.
+   Attribute
+ Value(s)
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Core Curriculum
+ Science A
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS: General Education
+ Science of the Physical Universe
+               Physics 90

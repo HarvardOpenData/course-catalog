@@ -1,0 +1,19 @@
+Sociology 202
+Intermediate Quantitative Research Methods (119985)
+Peter Marsden
+2017 Fall (4 Credits) Schedule: HARVARD UNIVERSITY
+MW 1000 AM - 1129 AM
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Social Sciences
+  FAS: Course Level
+ Primarily for Undergraduate Students
+         9/4/2017 0:39 AM
+Instructor Permissions: Instructor Enrollment Cap: n/a
+Descriptive and inferential techniques used in quantitative sociological research. Emphasis is on the fundamentals of the linear regression model for continuous response variables, focusing on assumptions and interpretation. Motivation, application, and presentation are stressed; topics include categorical covariates, interactions, and diagnostics. Because the linear regression model is the foundation for more specialized models that are often applied in sociological research, the aim of this course is to develop the skills necessary to (a) understand quantitative sociological research, (b) produce convincing analysis, (c) evaluate quantitative analysis, and (d) learn more specialized techniques as needed.
+Course Notes: Required of, and limited to, first-year graduate students in Sociology Recommended Prep: Familiarity with basic statistics.
+Additional Course Attributes:
+Sociology 20

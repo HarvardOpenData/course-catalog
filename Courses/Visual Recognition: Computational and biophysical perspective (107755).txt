@@ -1,0 +1,27 @@
+Visual Recognition: Computational and biophysical perspective (107755)
+Gabriel Kreiman
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+M 0330 PM - 0529 PM n/a
+How does cerebral cortex store information, compute and learn? How can we build prosthetic devices to fix or augment brain function? How can we build biologically inspired artificial intelligence? This course will examine these questions in the context of visual cognition. Topics: architecture of visual cortex, neurophysiology, visual consciousness, computational neuroscience, models of pattern recognition and computer vision, artificial intelligence, brain-machine interfaces.
+Course Notes: Course website: HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Class Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+http://klab.tch.harvard.edu/academia/classes/hms_neuro300_vision/hms_ne uro300_vision.html
+Neurobiology 230, Visual Recognition, brain-machine interfaces and artificial intelligence
+Neuro 230 cannot be taken if Neuro 130 has been taken. Neuro 230 cannot be taken concurrently with Neuro 130.
+Classes begin on September 11, 2017 through December 4, 2017. Classes will be held in Biolabs 2062
+Life Sciences 1a (or Life and Physical Sciences A) and Life Sciences 1b (or equivalent). Recommended: Math (Maa/Mab, Math 1A,1B, Math 19 a or equivalent). Physical Sciences 1. MCB 80.
+This course will be held in Biolabs 2062.
+Anti-Req: NEURO 130
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ None
+         Neurobiology - Graduate 30

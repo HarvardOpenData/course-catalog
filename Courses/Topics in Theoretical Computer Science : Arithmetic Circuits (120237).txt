@@ -1,0 +1,8 @@
+Topics in Theoretical Computer Science : Arithmetic Circuits (120237)
+Mrinal Kumar
+2017 Fall (4 Credits) Schedule: F 1000 AM - 1259 PM Instructor Permissions: None Enrollment Cap: n/a
+The goal of this course is to provide an introduction to the area of Arithmetic Circuit Complexity and to try and get a sense of the power and limitations of arithmetic circuits as a computational model. We hope to see a combination of both classical and recent results in this area, including some upper bounds, lower bounds and questions about factoring and derandomization.
+A more detailed description of the course, and tentative content can be found at
+https://mrinalkr.bitbucket.io/arithmeticcktsF17.html
+Recommended Prep: CS 121/124/125 or equivalents. Additional Course Attributes:
+Computer Science 234

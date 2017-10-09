@@ -1,0 +1,12 @@
+Physics 201
+Data Analysis for Physicists (161201)
+Vinothan Manoharan
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+This course covers what to do with experimental data after acquiring it. We will start with how to load, parse, filter, and visualize data using modern computational tools, then proceed to more advanced methods including Markov chain Monte Carlo and time-series analysis. Throughout, students will learn methods of statistical inference from both frequentist and Bayesian frameworks. Applications to particle physics, biophysics, condensed matter, applied physics, astrophysics, and more.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Physics 21

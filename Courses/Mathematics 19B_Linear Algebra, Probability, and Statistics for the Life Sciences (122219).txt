@@ -1,0 +1,10 @@
+Mathematics 19B
+Linear Algebra, Probability, and Statistics for the Life Sciences (122219)
+Rosalie Belanger-Rioux
+2018 Spring (4 Credits) Schedule: MWF 0100 PM - 0159 PM Instructor Permissions: None Enrollment Cap: n/a
+Probability, statistics and linear algebra with applications to life sciences, chemistry, and environmental life sciences. Linear algebra includes matrices, eigenvalues, eigenvectors, determinants, and applications to probability, statistics, dynamical systems. Basic probability and statistics are introduced, as are standard models, techniques, and their uses including the central limit theorem, Markov chains, curve fitting, regression, and pattern analysis.
+Course Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Mathematics 21

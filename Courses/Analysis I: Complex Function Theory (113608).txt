@@ -1,0 +1,27 @@
+Analysis I: Complex Function Theory (113608)
+William Boney
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Anti-Req: Not to be taken in addition to Mathematics 23a,b or 25a,b or 55a,b.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Schedule: Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+Analytic functions of one complex variable: power series expansions, contour integrals, Cauchy's theorem, Laurent series and the residue theorem. Some applications to real analysis, including the evaluation of indefinite integrals. An introduction to some special functions.
+Recommended Prep: Mathematics 23a,b or 25a,b or 112, or an equivalent background in mathematics.
+Requirements: Anti-Req: Not to be taken in addition to Mathematics 55b. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Mathematics 11

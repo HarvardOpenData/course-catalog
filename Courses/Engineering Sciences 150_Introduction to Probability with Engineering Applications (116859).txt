@@ -1,0 +1,8 @@
+Engineering Sciences 150
+Introduction to Probability with Engineering Applications (116859)
+Yue Lu
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+TR 1130 AM - 1259 PM n/a
+This course introduces students to probability theory and statistics, and their applications to physical, biological and information systems. Topics include: random variables, distributions and densities, conditional expectations, Bayes' rules, laws of large numbers, central limit theorems, Markov chains, Bayesian statistical inferences and parameter estimations. The goal of this course is to prepare students with adequate knowledge of probability theory and statistical methods, which will be useful in the study of several advanced undergraduate/graduate courses and in formulating and solving practical engineering problems.
+Recommended Prep: Applied Math 21a, Math 21a or equivalent. Additional Course Attributes:
+Engineering Sciences 15

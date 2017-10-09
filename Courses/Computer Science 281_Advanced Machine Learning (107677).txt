@@ -1,0 +1,23 @@
+Computer Science 281
+Advanced Machine Learning (107677)
+Alexander Rush
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+MW 0100 PM - 0229 PM 60
+Designed for first year grads from all areas. Advanced undergraduates welcome, particularly those who wish to do research (or write a thesis) in an area related to Human-Computer Interaction.
+None for graduate students; for undergrads CS 179 or CS 171 is strongly recommended and permission of the instructor is required. Basic web hacking is required to implement and deploy web-based experiments.
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  GSD: MDS/MDE Rec. Elec.
+ MDE recommended elective
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+            Advanced statistical machine learning and probabilistic data analysis. Topics include: Variational inference, graphical models, deep learning, text modeling, unsupervised learning, dimensionality reduction and visualization. Requires a major final project.
+Recommended Prep: Students should feel comfortable with linear algebra and probability theory. Students will be expected to implement algorithms in Python.
+Additional Course Attributes:
+Computer Science 282

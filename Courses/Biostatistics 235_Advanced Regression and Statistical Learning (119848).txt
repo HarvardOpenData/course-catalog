@@ -1,0 +1,10 @@
+Biostatistics 235
+Advanced Regression and Statistical Learning (119848)
+Tianxi Cai
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+MW 0945 AM - 1115 AM n/a
+An advanced course in linear models, including both classical theory and methods for high dimensional data. Topics include theory of estimation and hypothesis testing, multiple testing problems and false discovery rates, cross validation and model selection, regularization and the LASSO, principal components and dimension reduction, and classification methods. Background in matrix algebra and linear regression required.
+Course Notes: Class Notes:
+Requirements:
+Additional Course Attributes:
+Biostatistics 23

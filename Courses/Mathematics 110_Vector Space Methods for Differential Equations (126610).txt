@@ -1,0 +1,30 @@
+Mathematics 110
+Vector Space Methods for Differential Equations (126610)
+Dusty Grundmeier
+2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MWF 1100 AM - 1159 AM n/a
+  Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: General Education
+ Empirical and Mathematical Reasoning
+  FAS: Core Curriculum
+ Quantitative Reasoning
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+              Develops the theory of inner product spaces, both finite-dimensional and infinite-dimensional, and applies it to a variety of ordinary and partial differential equations. Topics: existence and uniqueness theorems, Sturm-Liouville systems, orthogonal polynomials, Fourier series, Fourier and Laplace transforms, eigenvalue problems, and solutions of Laplace's equation and the wave equation in the various coordinate systems.
+Recommended Prep: Mathematics 23a,b or 25a,b or Mathematics 19a,b or 21a,b plus any Mathematics course at the 100 level; or an equivalent background in
+Additional Course Attributes:
+Mathematics 112
+Mathematics.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Scienc

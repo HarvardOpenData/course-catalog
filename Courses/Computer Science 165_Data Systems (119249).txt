@@ -1,0 +1,21 @@
+Computer Science 165
+Data Systems (119249)
+Stratos Idreos
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0400 PM - 0529 PM n/a
+Computer Science 51; Computer Science 121 is recommended. Students must have good programming skills, be very comfortable with recursion, proofs, basic mathematical ideas and notations, including sets, relations, functions, and induction.
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         We are in the big data era and data systems sit in the critical path of everything we do. We are going through major transformations in businesses, sciences, as well as everyday life - collecting and analyzing data changes everything and data systems provide the means to store and analyze a massive amount of data. This course is a comprehensive introduction to modern data systems. The primary focus of the course is on the modern trends that are shaping the data management industry right now: column-store and hybrid systems, shared nothing architectures, cache conscious algorithms, hardware/software co-design, main-memory systems, adaptive indexing, stream processing, scientific data management, and key-value stores. We also study the history of data systems, traditional and seminal concepts and ideas such as the relational model, row-store database systems, optimization, indexing, concurrency control, recovery and SQL. In this way, we discuss both how and why data systems evolved over the years, as well as how these concepts apply today and how data systems might evolve in the future. We focus on understanding concepts and trends rather than specific techniques that will soon be outdated - as such the
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+class relies largely on recent research material and on a semi-flipped class model with a lot of hands-on interaction in each class.
+Recommended Prep: Additional Course Attributes:
+Computer Science 17

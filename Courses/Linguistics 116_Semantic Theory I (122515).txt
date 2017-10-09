@@ -1,0 +1,7 @@
+Linguistics 116
+Semantic Theory I (122515)
+Kathryn Davidson
+2017 Fall (4 Credits) Schedule: T 0100 PM - 0259 PM Instructor Permissions: None Enrollment Cap: n/a
+An introductory course on semantics in generative grammar. This course provides the formal tools to investigate the truth-conditional meanings of sentences. Topics covered include: compositionality, type theory and the fundamentals of clause structure, quantifier scope, and variable-binding.
+Recommended Prep: Linguistics 106, equivalent, or permission of the instructor. Additional Course Attributes:
+Linguistics 11

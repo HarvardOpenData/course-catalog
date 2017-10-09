@@ -1,0 +1,31 @@
+Computer Science 283
+Computer Vision (113944)
+Todd Zickler
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1130 AM - 1259 PM n/a
+manipulation), basic statistics (e.g. rules of expectations, importance sampling), algorithms (e.g. dynamic programming), and software engineering/numerical computing (e.g. programming in Python and numpy, working with data with 100,000+ rows).
+   Attribute
+ Value(s)
+  GSD: MDS/MDE Rec. Elec.
+ MDE recommended elective
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+           Vision as an ill-posed inverse problem: image formation, two-dimensional signal processing; feature analysis; image segmentation; color, texture, and shading; multiple-view geometry; object and scene recognition; and applications.
+Course Notes: Offered jointly with the Design School as SCI-06275. Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  GSD: MDS/MDE Rec. Elec.
+ MDE recommended elective
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+           Computer Science 28

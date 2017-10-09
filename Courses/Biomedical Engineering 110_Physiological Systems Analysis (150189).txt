@@ -1,0 +1,8 @@
+Biomedical Engineering 110
+Physiological Systems Analysis (150189)
+Maurice Smith
+2017 Fall (4 Credits) Schedule: MW 1130 AM - 1259 PM Instructor Permissions: None Enrollment Cap: n/a
+A survey of systems theory with applications from bioengineering and physiology. Analysis: differential equations, linear and nonlinear systems, stability, the complementary nature of time and frequency domain methods, feedback, and biological oscillations. Applications: nerve function, muscle dynamics, cardiovascular regulation. Laboratory: neural models, feedback control systems, properties of muscle, cardiovascular function.
+Recommended Prep: Applied Mathematics 21b or Mathematics 21b or equivalent. Physiology at the level of Engineering Sciences 53 suggested.
+Additional Course Attributes:
+Biomedical Engineering 12

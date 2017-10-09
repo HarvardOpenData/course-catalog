@@ -1,0 +1,18 @@
+Linguistics 236
+Probabilistic Understanding of Language (205142)
+Gregory Scontras Gennaro Chierchia
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+R 0100 PM - 0259 PM n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Arts and Humanities
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Much work in formal, compositional semantics follows the tradition of positing systematic but inflexible theories of meaning. However, in practice, the meaning we derive from language is heavily dependent on nearly all aspects of context, both linguistic and situational. To formally explain these nuanced aspects of meaning and better understand the compositional mechanism that delivers them, recent work in formal pragmatics recognizes semantics not as one of the final steps in meaning calculation, but rather as one of the first. The probabilistic pragmatics approach leverages the tools of structured probabilistic models formalized in a stochastic calculus to develop and refine a general theory of communication. By subjecting the heretofore off-limits land of pragmatics to articulated formal models, the rapidly growing body of research both informs pragmatic phenomena and enriches theories of semantics. The present course serves an a practical introduction to this modeling framework. Little is presupposed beyond a willingness to explore recent progress in formal, implementable models of language understanding.
+Additional Course Attributes:
+Linguistics 241

@@ -1,0 +1,10 @@
+Computer Science 262
+Introduction to Distributed Computing (122813)
+James Waldo
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 1130 AM - 1259 PM n/a
+An examination of the special problems associated with distributed computing such as partial failure, lack of global knowledge, asynchrony and coordination of time, and protocols that function in the face of these problems. Emphasis on both the theory that grounds thinking about these systems and in the ways to design and build such systems.
+Recommended Prep: Additional Course Attributes:
+Computer Science 26

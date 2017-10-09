@@ -1,0 +1,27 @@
+Data Science 2: Advanced Topics in Data Science (203102)
+Only one of CS 109a, AC 209a, or Stat 121a can be taken for credit. Students who have previously taken CS 109, AC 209, or Stat 121 cannot take CS 109a, AC 209a, or Stat 121a for credit.
+Programming knowledge at the level of CS 50 or above, and statistics knowledge at the level of Stat 100 or above (Stat 110 recommended).
+Not to be taken in addition to Computer Science 109 or Computer Science 109A, or Applied Computation 209, or Applied Computation 209A.
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  Full Year Course
+ Divisible Course
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+           Mark Glickman Margo Levine
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 0100 PM - 0229 PM n/a
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Data Science 2 is the second half of a one-year introduction to data science. Building upon the material in Data Science 1, the course introduces advanced methods for data wrangling, data visualization, and statistical modeling and prediction. Topics include big data and database management, interactive visualizations, nonlinear statistical models, and deep learning. Part two of a two part series. The curriculum for this course builds throughout the academic year. Students are strongly encouraged to enroll in both the fall and spring course within the same academic year.
+Course Notes:
+Recommended Prep:
+Requirements:
+Additional Course Attributes:
+Statistics 12

@@ -1,0 +1,9 @@
+Mathematics 233A Section: LECT Theory of Schemes I (123445)
+Joseph D. Harris
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 1000 AM - 1059 AM n/a
+An introduction to the theory and language of schemes. Textbooks: Algebraic Geometry by Robin Hartshorne and Geometry of Schemes by David Eisenbud and Joe Harris. Weekly homework will constitute an important part of the course.
+Additional Course Attributes:
+Mathematics 24

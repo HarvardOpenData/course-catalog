@@ -1,0 +1,24 @@
+Economics 1050
+Strategy, Conflict, and Cooperation (123893)
+Robert Neugeboren
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 0230 PM - 0359 PM n/a
+   Attribute
+ Value(s)
+   Game theory is the study of interdependent decision-making. In the early days of the cold war, game theory was used to analyze an emerging nuclear arms race; today, it has applications in economics, psychology, politics, the law and other fields. In this course, we will explore the "strategic way of thinking" as developed by game theorists over the past sixty years. Special attention will be paid to the move from zero-sum to nonzero-sum game theory. Students will learn the basic solution concepts of game theory -- including minimax and Nash equilibrium -- by playing and analyzing games in class, and then we will take up some game-theoretic applications in negotiation settings: the strategic use of threats, bluffs and promises. We will also study the repeated prisoner's dilemma and investigate how cooperative behavior may emerge in a population of rational egoists. This problematic -- "the evolution of cooperation" -- extends from economics and political science to biology and artificial intelligence, and it presents a host of interesting challenges for both theoretical and applied research. Finally, we will consider the changing context for the development of game theory today, in particular, the need to achieve international cooperation on economic and environmental issues.
+The course has two main objective: to introduce students to the fundamental problems and solution concepts of noncooperative game theory; and to provide an historical perspective on its development, from the analysis of military conflicts to contemporary applications in economics and other fields. No special mathematical preparation is required.
+Recommended Prep: Economics 10a
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Social Sciences
+         Economics 105

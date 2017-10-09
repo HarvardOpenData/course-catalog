@@ -1,0 +1,10 @@
+Chemistry 50 Section: 01 Computing for Science Studio (204449)
+Alan Aspuru-Guzik
+2018 Spring (4 Credits) HARVARD UNIVERSITY
+Schedule:
+F 0100 PM - 0459 PM
+9/4/2017 0:39 AM
+Instructor Permissions: Instructor Enrollment Cap: 50
+The modern practice of basic and applied science requies proficiency with computers and programming. In this course, the students will learn applied computer programming with an emphasis on practical examples related to the simulation of matter. Students will be exposed to interdisciplinary computational problems drawn from several scientific disciplines including chemistry, biology, materials science and physics. The studio format allows for a mixture of lectures, guided computer programming exercices and open scientific problem solving in a 4 hour-long session. The studio session is complemented with computer programming exercises solved by teams of students outside of class and office hours. The computer language that will be employed will by Phython. The students will be exposed to several numberical and data analysis libraries that can serve them in a variety of modern contexts.
+Additional Course Attributes:
+Chemistry 91

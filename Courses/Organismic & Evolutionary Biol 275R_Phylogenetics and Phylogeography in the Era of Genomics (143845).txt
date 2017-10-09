@@ -1,0 +1,29 @@
+Organismic & Evolutionary Biol 275R
+Phylogenetics and Phylogeography in the Era of Genomics (143845)
+Scott Edwards
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+W 0200 PM - 0459 PM n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         The course will review the recent literature on methods of analysis in phylogenomics and phylogeography, with particular attention to analysis of large-scale data sets; accommodating gene tree heterogeneity; adequacy of models at the level of DNA sequence evolution and demographic history; and estimation of critical parameters of population history, such as phylogenetic relationships, reticulate evolutionary histories, rates of gene flow and species boundaries. Weekly sessions will consist of presentations and discussions led by students and by international experts, including hands-on sessions working with state-of-the-art software.
+Course Notes:
+Recommended Prep: Additional Course Attributes:
+Participants should have an account on the FAS Research Computing Odyssey cluster prior to course beginning.
+OEB 53, OEB 181, OEB 125 or equivalent, or permission of the instructor.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+        HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+ Organismic & Evolutionary Biol 27

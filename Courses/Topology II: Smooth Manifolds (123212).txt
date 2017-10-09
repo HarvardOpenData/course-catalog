@@ -1,0 +1,10 @@
+Topology II: Smooth Manifolds (123212)
+Michael Hopkins
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 0200 PM - 0259 PM n/a
+Differential manifolds, smooth maps and transversality. Winding numbers, vector fields, index and degree. Differential forms, Stokes' theorem, introduction to cohomology.
+Recommended Prep:
+Additional Course Attributes:
+Mathematics 13

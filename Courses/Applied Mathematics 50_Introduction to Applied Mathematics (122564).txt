@@ -1,0 +1,8 @@
+Applied Mathematics 50
+Introduction to Applied Mathematics (122564)
+Doeke Hekstra
+2018 Spring (4 Credits) Schedule: TR 0100 PM - 0229 PM Instructor Permissions: Instructor Enrollment Cap: n/a
+This course provides an introduction to the problems and issues of applied mathematics, focusing on areas where mathematical ideas have had a major impact on diverse fields of human inquiry. The course is organized around two-week topics drawn from a variety of fields, and involves reading classic mathematical papers in each topic. The course also provides an introduction to mathematical modeling and programming.
+Recommended Prep:
+Additional Course Attributes:
+Applied Mathematics 91

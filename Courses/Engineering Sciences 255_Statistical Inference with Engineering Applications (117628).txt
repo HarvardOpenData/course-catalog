@@ -1,0 +1,16 @@
+Engineering Sciences 255
+Statistical Inference with Engineering Applications (117628)
+Yue Lu
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MW 1000 AM - 1129 AM n/a
+Statistical signal processing; detection and estimation; hypothesis testing; linear and non-linear estimation; maximum likelihood and Bayes approaches; graphical models and message passing algorithms; large deviation analysis and asymptotic methods in statistics; high-dimensional probability theory; stochastic processes and systems; Wiener and Kalman filtering; Markov chain Monte-Carlo methods; applications to physical, chemical, biological and information systems.
+Recommended Prep: Knowledge of probability theory and calculus. Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Engineering Sciences 26

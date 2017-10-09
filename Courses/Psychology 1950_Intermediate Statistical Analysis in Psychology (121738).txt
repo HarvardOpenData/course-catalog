@@ -1,0 +1,18 @@
+Psychology 1950
+Intermediate Statistical Analysis in Psychology (121738)
+Patrick Mair
+2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
+TR 0130 PM - 0259 PM n/a
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Social Sciences
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         This course offers intense, foundational exposure to psychological statistics, focusing heavily on analysis of variance (one-way, factorial, repeated-measures, mixed-model). Other topics include: exploratory data analysis, sampling distributions, null hypothesis significance testing, t-tests, fixed versus random effects, post hoc and planned comparisons, correlation, simple regression, the general linear model, chi-square tests, nonparametric statistics, confidence intervals, and meta-analysis.
+Course Notes: Required of doctoral students in Psychology.
+Recommended Prep: One of Psychology 1900, Statistics 100, 101, 102, 104, or the equivalent.
+Additional Course Attributes:
+Psychology 195

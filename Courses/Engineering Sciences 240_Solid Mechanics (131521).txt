@@ -1,0 +1,22 @@
+Engineering Sciences 240
+Solid Mechanics (131521)
+Joost Vlassak
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MWF 1000 AM - 1059 AM n/a
+Foundations of solid mechanics, development of elasticity theory, and introduction to linear visco-elasticity and plasticity. Basic elasticity solutions. Variational principles. Deformation of plates. Introduction to large deformation.
+Recommended Prep: Applied Mathematics 105 or equivalent; introduction to solid mechanics at the level of Engineering Sciences 120, or Earth and Planetary Sciences 108
+or 166, or Applied Physics 293.
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Engineering Sciences 24

@@ -1,0 +1,9 @@
+Biomedical Engineering 130
+Neural Control of Movement (122341)
+Maurice Smith
+2018 Spring (4 Credits) Schedule: TR 1000 AM - 1129 AM Instructor Permissions: None Enrollment Cap: n/a
+Approaches from robotics, control theory, and neuroscience for understanding biological motor systems. Analytical and computational modeling of muscles, reflex arcs, and neural systems that contribute to motor control in the brain. Focus on understanding how the central nervous system plans and controls voluntary movement of the eyes and limbs. Learning and memory; effects of variability and noise on optimal motor planning and control in biological systems.
+Course Notes: Offered in alternate years.
+Recommended Prep: Mathematics 21b or Applied Mathematics 21b or equivalent, probability and
+Additional Course Attributes:
+Biomedical Engineering 19

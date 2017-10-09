@@ -1,0 +1,24 @@
+Biostatistics 283
+Cancer Genome Analysis (203466)
+Scott Carter
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 1130 AM - 1259 PM n/a
+Offered jointly with the School of Public Health as BST 282.
+Biostatistics degree program or Computational Biology and Quantitative Genetics degree program
+Prerequisite: STAT 110 OR CS 50 OR BIOSTAT PhD Students
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         This course will begin with a basic introduction to DNA, genes, and genomes for students with no biology background. We will then introduce cancer as an evolutionary process and review landmarks in the history of cancer genetics. We will then discuss the basics of sequencing technology and modern NGS. We will cover the main steps involved in turning billions of short sequencing reads into a representation of the somatic genetic alterations characterizing an individual patient's cancer. We will build on this foundation to study topics related to identifying mutations under positive selection from multiple tumors sampled in a population.
+Recommended Prep: To accommodate both statistics students with little biology background as well as biology students with little data analysis background, we will allow
+biology and statistics students to work as pairs to complete the homeworks HARVARD UNIVERSITY 9/4/2017 0:39 AM
+and final project. These assignments will require basic programming and data manipulation ability in a statistical scripting language such as R (http://projects.iq.harvard.edu/rtc/event/introduction-r). In addition, basic knowledge of probability and statistical inference are encouraged.
+Additional Course Attributes:
+Biostatistics 29

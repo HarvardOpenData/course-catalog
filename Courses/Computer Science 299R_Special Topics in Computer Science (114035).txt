@@ -1,0 +1,43 @@
+Computer Science 299R
+Special Topics in Computer Science (114035)
+Salil Vadhan
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: TBD Enrollment Cap: n/a
+Enrollment Cap:
+   Attribute
+ Value(s)
+  Full Year Course
+ Indivisible Course
+  Course Search Attributes
+ Display Only in Course Search
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ None
+  FAS: Course Level
+ Primarily for Graduate Students
+             Supervision of experimental or theoretical research on acceptable computer science problems and supervision of reading on topics not covered by regular courses of instruction.
+HARVARD UNIVERSITY 9/4/2017 0:39 AM
+Course Notes:
+Additional Course Attributes:
+Computer Science 299Computer Science 299R
+Special Topics in Computer Science (114035)
+Salil Vadhan
+2017 Fall (4 Credits)
+Instructor Permissions: None
+Schedule: TBD Enrollment Cap: n/a
+Open to graduate students and AB/SM candidates only. Students must arrange such work with a member of the School of Engineering and Applied Sciences. This course is graded and is ordinarily taken with the approval of the Committee on Higher Degrees. Applicants must file a project sheet before study cards are filed. Project sheets may be obtained from the Academic Office, Pierce Hall 110.
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ None
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Supervision of experimental or theoretical research on acceptable computer science problems and supervision of reading on topics not covered by regular courses of instruction.
+Open to graduate students and AB/SM candidates only. Students must arrange such work with a member of the School of Engineering and Applied Sciences. This course is graded and is ordinarily taken with the approval of the Committee on Higher Degrees. Applicants must file a project sheet before study cards are filed. Project sheets may be obtained from the Academic Office, Pierce Hall 110.
+Course Notes:
+Additional Course Attributes:
+Computer Science 30

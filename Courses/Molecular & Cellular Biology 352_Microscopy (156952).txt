@@ -1,0 +1,17 @@
+Molecular & Cellular Biology 352
+Microscopy (156952)
+Jeff W. Lichtman Douglas Richardson
+2018 Spring (2 Credits)
+Instructor Permissions: Instructor
+Schedule: TBD Enrollment Cap: n/a
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Graduate Course
+  FAS Divisional Distribution
+ None
+         This course presents the fundamental concepts that underlie modern light microscopy in a rigorous but non- mathematical way for biological applications. The students will learn about the four major frameworks for light (ray optics, wave optics, electromagnetism, and quantum optics). The ways lenses work, the theory of resolution, and the optical design of the compound microscope will be described. The course will also describe the photo-physical principles that underlie fluorescence and genetically encoded fluorescent proteins, and light detector and imaging strategies. Scanning (confocal and 2P), light sheet and super-resolution microcopies will also be described. We will end with a tour of the Harvard Center of Biological Imaging.
+Additional Course Attributes:
+Molecular & Cellular Biology 35

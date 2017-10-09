@@ -1,0 +1,18 @@
+Biostatistics 249
+Bayesian Methodology in Biostatistics (119853)
+Lorenzo Trippa
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+TR 0945 AM - 1115 AM n/a
+General principles of the Bayesian approach, prior distributions, hierarchical models and modeling techniques, approximate inference, Markov chain Monte Carlo methods, model assessment and comparison. Bayesian approaches to GLMMs, multiple testing, nonparametrics, clinical trials, survival analysis.
+Course Notes: Offered jointly with the School of Public Health as BST249.
+Requirements: Prerequisite: Biostatistics 231 AND Biostatistics 232 Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Graduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Scienc

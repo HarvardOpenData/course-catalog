@@ -1,0 +1,22 @@
+Statistics 388R
+Design and Analysis of Experiments at Scale (204453)
+Edoardo Airoldi
+2018 Spring (4 Credits) Schedule: TBD Instructor Permissions: Instructor Enrollment Cap: 5
+Description. Graduate seminar on strategies for designing, executing and analyzing experiments on large populations, as well as large collections of experiments. We will consider settings where units of analysis may be assigned treatment in multiple experiments, running concurrently. The course is largely based on critical reading of recent articles and technical reports, and on the instructor's own experience in designing complex field experiments, and in working with experimentation platforms at large IT companies.
+Course Notes: new course Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+          Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Not Available for Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+      HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Stem Cell and Regenerative Biology Subject: Stem Cell & Regenerative Biol
+Stem Cell & Regenerative Biol 1

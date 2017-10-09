@@ -1,0 +1,28 @@
+Engineering Sciences 52
+The Joy of Electronics - Part I (109809)
+David Abrams
+2018 Spring (4 Credits) Schedule: MW 1130 AM - 1259 PM Instructor Permissions: Instructor Enrollment Cap: 40
+Introduction to designing circuits to solve real problems. Two lecture and two lab sessions a week blend instruction with hands-on lab work to emphasize understanding, building and testing circuits. The course incorporates useful design experiences from day one. Covered topics include amplication, feedback, impedance, stability, filtering, switching, digital logic, microcontrollers, and more. The class ends with an open ended project that challenges students to build on core concepts.
+Course Notes: The course also has a mandatory lab component. Lab Section One: Mon & Wed 2:30pm to 5:30pm OR Lab Section Two: Tue & Thu 2:30pm to 5:30pm. If we need to limit class size, preference will be given to students who attend
+Additional Course Attributes:
+Engineering Sciences 5Engineering Sciences 52
+The Joy of Electronics - Part I (109809)
+David Abrams
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: Enrollment Cap:
+MW 0100 PM - 0229 PM 32
+all of the shopping period lectures and lab sessions.
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Introduction to designing circuits to solve real problems. Two lecture and two lab sessions a week blend instruction with hands-on lab work to emphasize understanding, building and testing circuits. The course incorporates useful design experiences from day one. Covered topics include amplication, feedback, impedance, stability, filtering, switching, digital logic, microcontrollers, and more. The class ends with an open ended project that challenges students to build on core concepts.
+Course Notes: The course also has a mandatory lab component. Lab Section One: Mon & Wed 2:30pm to 5:30pm OR Lab Section Two: Tue & Thu 2:30pm to 5:30pm. If we need to limit class size, preference will be given to students who attend
+all of the shopping period lectures and lab sessions.
+Additional Course Attributes:
+Engineering Sciences 5

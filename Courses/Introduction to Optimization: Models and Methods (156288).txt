@@ -1,0 +1,19 @@
+Introduction to Optimization: Models and Methods (156288)
+Yiling Chen
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+MW 1000 AM - 1129 AM n/a
+   Attribute
+ Value(s)
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Introduction to basic mathematical ideas and computational methods for solving deterministic and stochastic optimization problems. Topics covered: linear programming, integer programming, branch-and-bound, branch-and- cut, Markov chains, Markov decision processes. Emphasis on modeling. Examples from business, society, engineering, sports, e-commerce. Exercises in AMPL, complemented by Maple or Matlab.
+Engineering Sciences 121 is also offered as Applied Mathematics 121. Students may not take both for credit. Undergraduate Engineering Students should enroll in Engineering Sciences 121.
+Applied Mathematics 21b or Mathematics 21b (linear algebra) and some knowledge of probability and statistics at the level of Statistics 110 or Applied Mathematics 101 or permission of instructor.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Engineering Sciences 12

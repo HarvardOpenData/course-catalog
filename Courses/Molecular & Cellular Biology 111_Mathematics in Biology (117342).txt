@@ -1,0 +1,18 @@
+Molecular & Cellular Biology 111
+Mathematics in Biology (117342)
+Elena Rivas
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+MW 1000 AM - 1129 AM n/a
+Develops the mathematics needed for quantitative understanding of biological phenomena including data analysis, simple models, and framing quantitative questions. Topics include probability, transforms and linear algebra, and dynamical systems, each motivated by current biological research.
+Recommended Prep: Mathematics 19 or higher. Additional Course Attributes:
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Molecular & Cellular Biology 11

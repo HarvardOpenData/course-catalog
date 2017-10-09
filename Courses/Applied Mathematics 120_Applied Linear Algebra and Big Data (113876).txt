@@ -1,0 +1,23 @@
+Applied Mathematics 120
+Applied Linear Algebra and Big Data (113876)
+Eli Tziperman
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: Enrollment Cap:
+TR 1000 AM - 1129 AM n/a
+Applied Mathematics 115 is also offered as Engineering Sciences 115. Students may not take both for credit. Undergraduate Engineering Students should enroll in Engineering Sciences 115.
+Applied Mathematics 105. Additional skills in analysis, algebra, probability, statistics and computer programming will increase the value of the course to students.
+Prerequisite: Must take APMTH 105 OR APMTH 108 OR APMTH 104 OR MATH 112 before taking APMTH 115.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ For Undergraduate and Graduate Students
+         Topics in linear algebra which arise frequently in applications, especially in the analysis of large data sets: linear HARVARD UNIVERSITY 9/4/2017 0:39 AM
+equations, eigenvalue problems, linear differential equations, principal component analysis, singular value decomposition, data mining methods including frequent pattern analysis, clustering, outlier detection, classification, machine learning, modeling and prediction. Examples will be given from physical sciences, biology, climate, commerce, internet, image processing, economics and more.
+Recommended Prep: Applied Mathematics 21a,b or equivalent, Computer Science 50 or programming experience.
+Additional Course Attributes:
+Applied Mathematics 12

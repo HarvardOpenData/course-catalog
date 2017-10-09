@@ -1,0 +1,10 @@
+Earth & Planetary Sciences 236
+Environmental Modeling and Data Analysis (120783)
+Steven Wofsy Daniel Jacob
+2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
+WF 1000 AM - 1129 AM n/a
+Chemical transport models: principles, numerical methods. Inverse models: Bayes' theorem, optimal estimation, Kalman filter, adjoint methods. Analysis of environmental data: visualization, time series analysis, Monte Carlo methods, statistical assessment. Students prepare projects and presentations.
+Course Notes:
+Recommended Prep:
+Additional Course Attributes:
+Earth & Planetary Sciences 23

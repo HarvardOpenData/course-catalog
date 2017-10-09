@@ -1,0 +1,25 @@
+Applied Mathematics 221
+Advanced Optimization (107600)
+2018 Spring (4 Credits) Schedule: MW 0230 PM - 0359 PM Instructor Permissions: None Enrollment Cap: n/a
+This is a graduate level course on optimization which provides a foundation for applications such as statistical machine learning, signal processing, finance, and approximation algorithms. The course will cover fundamental concepts in optimization theory, modeling, and algorithmic techniques for solving large-scale optimization problems. Topics include elements of convex analysis, linear programming, Lagrangian duality, optimality conditions, and discrete and combinatorial optimization. Exercises and the class project will involve developing and implementing optimization algorithms.
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+         Course Notes: Recommended Prep:
+Additional Course Attributes:
+Offered jointly with the Business School as 4460.
+Applied Mathematics 21b or Mathematics 21b (linear algebra) and Applied Mathematics 121 or equivalent or permission of instructor. Comfort with programming.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Graduate Students
+         Applied Mathematics 22

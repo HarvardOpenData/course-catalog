@@ -1,0 +1,20 @@
+Earth & Planetary Sciences 203
+Earthquakes and Faulting (121615)
+Marine Denolle Brendan Meade John Shaw
+2018 Spring (4 Credits)
+Instructor Permissions: None
+Schedule: TBD Enrollment Cap: n/a
+Students specializing in this area are expected to take EPS 200 and 236. EPS 200 is also intended to serve as a breadth course for students specializing in other areas of Earth & Planetary Sciences or Environmental Science & Engineering.
+Applied Mathematics 21 or equivalent, a course in college-level mechanics, electromagnetism, and chemistry.
+   Attribute
+ Value(s)
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+  FAS: Course Level
+ Primarily for Graduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+         Earthquake phenomenology in the context of plate tectonics. Continuum mechanics and elastic deformation; seismic wave radiation. Earthquake cycle models and constraints from tectonic geodesy. Earthquake geology and paleoseismology. Source physics, fault friction, rupture dynamics. Deformation rates and fault system structure. Quantitative seismic hazard analysis.
+Course Notes: Given in alternate years. Recommended Prep: Applied Mathematics 21a, b.
+Additional Course Attributes:
+Earth & Planetary Sciences 20

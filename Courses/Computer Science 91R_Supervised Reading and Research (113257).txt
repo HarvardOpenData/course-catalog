@@ -1,0 +1,39 @@
+Computer Science 91R
+Supervised Reading and Research (113257)
+Stephen Chong Boaz Barak
+2018 Spring (4 Credits)
+Instructor Permissions: Instructor
+Schedule: TBD Enrollment Cap: n/a
+Supervised individual study of advanced topics in computer science. A student wishing to enroll in Computer Science 91r must be accepted by a faculty member who will supervise the course work. A form available from the Student Affairs Office, Pierce Hall 110, must be filled out and signed by the student and faculty supervisor. Students writing theses may enroll in this course while conducting thesis research and writing.
+Course Notes:
+Additional Course Attributes:
+Computer Science 91Computer Science 91R
+Supervised Reading and Research (113257)
+Stephen Chong Steven Gortler
+2017 Fall (4 Credits)
+Instructor Permissions: Instructor
+Schedule: TBD Enrollment Cap: n/a
+At most two terms of Computer Science 91r may be taken for academic credit. May not be taken Pass/Fail. Students wishing more information about the range of suitable projects or faculty supervisors should consult the Director of Undergraduate Studies.
+   Attribute
+ Value(s)
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Supervised individual study of advanced topics in computer science. A student wishing to enroll in Computer Science 91r must be accepted by a faculty member who will supervise the course work. A form available from the Student Affairs Office, Pierce Hall 110, must be filled out and signed by the student and faculty supervisor. Students writing theses may enroll in this course while conducting thesis research and writing.
+Course Notes: At most two terms of Computer Science 91r may be taken for academic credit. May not be taken Pass/Fail. Students wishing more information about
+the range of suitable projects or faculty supervisors should consult the Director of Undergraduate Studies.
+HARVARD UNIVERSITY
+9/4/2017 0:39 AM
+Additional Course Attributes:
+   Attribute
+ Value(s)
+  FAS: Course Level
+ Primarily for Undergraduate Students
+  FAS Divisional Distribution
+ Science & Engineering & Applied Science
+  All: Cross Reg Availability
+ Available for Harvard Cross Registration
+         Computer Science 9
