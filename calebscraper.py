@@ -13,6 +13,8 @@ for time in times:
 	newTime=[timeTuple[0],int(timeTuple[1]),int(timeTuple[3])]
 	if timeTuple[2] == "PM" and timeTuple[1][0:2] != "12":
 		newTime[1] += 1200
-	if timeTuple[4] == "PM" and timeTuple[1][0:2] != "12":
+	if timeTuple[4] == "PM" and timeTuple[3][0:2] != "12":
 		newTime[2] += 1200
+	newTime[1]= 60*(newTime[1]//100) + (newTime[1] % 100)
+	newTime[2]= 60*(newTime[2]//100) + (newTime[2] % 100)
 	print(newTime)
