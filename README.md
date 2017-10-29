@@ -1,6 +1,6 @@
 # Course Catalog Analysis
 
-*Neel Mehta, Alex Giglio, Caleb*
+*Neel Mehta, Alex Giglio, Caleb Shelburne*
 
 ## Methods
 
