@@ -4,14 +4,15 @@ f = open("cleaned_catalog.txt")
 contents = f.read()
 f.close()
 matcher=re.compile("[MTWRF]{1,5} \d{4} [AP]M - \d{4} [AP]M")
+times=matcher.findall(contents)
 
-matches = []
-for str in matcher:
-    for c in str:
-        if c == "":
-            str.split(c)
-            matches.append(tuple(str))
-            break
+submatcher=re.compile("([MTWRF]{1,5}) (\d{4}) ([AP]M) - (\d{4}) ([AP]M)")
 
-print(matches)
-print(matcher.findall(contents))
+for time in times:
+	timeTuple=submatcher.findall(time)[0]
+	newTime=[timeTuple[0],int(timeTuple[1]),int(timeTuple[3])]
+	if timeTuple[2] == "PM" and timeTuple[1][0:2] != "12":
+		newTime[1] += 1200
+	if timeTuple[4] == "PM" and timeTuple[1][0:2] != "12":
+		newTime[2] += 1200
+	print(newTime)
