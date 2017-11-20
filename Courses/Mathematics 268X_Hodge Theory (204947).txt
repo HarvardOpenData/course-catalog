@@ -1,7 +1,0 @@
-Mathematics 268X
-Hodge Theory (204947)
-Wilfried Schmid
-2017 Fall (4 Credits) Schedule: TR 0230 PM - 0359 PM Instructor Permissions: None Enrollment Cap: n/a
-"Classical Hodge theory, including the "Kahler package"; mixed Hodge structures on singular and incomplete varieties; geometric and abstract variations of Hodge structure; the orbit theorems of Variation of Hodge structure; an introduction to Mixed Hodge Modules.
-Additional Course Attributes:
-Mathematics 269

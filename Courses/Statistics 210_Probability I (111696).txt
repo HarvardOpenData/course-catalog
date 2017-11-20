@@ -1,8 +1,0 @@
-Statistics 210
-Probability I (111696)
-Joseph Blitzstein
-2017 Fall (4 Credits) Schedule: MW 1130 AM - 1259 PM Instructor Permissions: None Enrollment Cap: n/a
-Random variables, measure theory, reasoning by representation. Families of distributions: Multivariate Normal, conjugate, marginals, mixtures. Conditional distributions and expectation. Convergence, laws of large numbers, central limit theorems, and martingales.
-Course Notes: Class Notes:
-Recommended Prep: Additional Course Attributes:
-Statistics 21

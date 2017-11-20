@@ -1,8 +1,0 @@
-Computer Science 179
-Design of Useful and Usable Interactive Systems (123971)
-Krzysztof Gajos
-2018 Spring (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
-TR 0230 PM - 0359 PM 60
-The course covers skills and techniques necessary to design innovative interactive products that are useful, usable and that address important needs of people other than yourself. You will learn how to uncover needs that your customers cannot even articulate. You will also learn a range of design principles, effective creativity-related practices, and techniques for rapidly creating and evaluating product prototypes. You will also have several opportunities to formally communicate your design ideas to a variety of audiences. You will complete two large team-based design projects.
-Recommended Prep: Additional Course Attributes:
-Computer Science 18

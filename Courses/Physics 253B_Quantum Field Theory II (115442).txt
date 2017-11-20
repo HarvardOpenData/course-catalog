@@ -1,7 +1,0 @@
-Physics 253B
-Quantum Field Theory II (115442)
-Daniel Jafferis
-2018 Spring (4 Credits) Schedule: TR 0100 PM - 0229 PM Instructor Permissions: None Enrollment Cap: n/a
-A continuation of Physics 253a. Topics include: the renormalization group, implications of unitarity, Yang-Mills theories, spontaneous symmetry breaking, weak interactions, anomalies, and quantum chromodynamics. Additional advanced topics may be covered depending on time and interest.
-Recommended Prep: Additional Course Attributes:
-Physics 26

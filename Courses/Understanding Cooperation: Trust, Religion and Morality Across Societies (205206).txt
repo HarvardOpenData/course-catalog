@@ -1,7 +1,0 @@
-Understanding Cooperation: Trust, Religion and Morality Across Societies (205206)
-HARVARD UNIVERSITY 9/4/2017 0:39 AM
-Benjamin Enke
-2017 Fall (4 Credits) Schedule: M 0300 PM - 0459 PM Instructor Permissions: Instructor Enrollment Cap: 30
-This interdisciplinary course introduces students to state-of-the-art thinking on cultural variation in cooperation behavior, drawing on insights from economics, cultural psychology and cultural anthropology. We will attempt to answer questions such as: What is the nature of the cross-societal variation in how people collaborate with and trust each other in economic contexts? How can we think of heterogeneity in religious beliefs, moral values, language, and basic emotions as tools to sustain and enforce cooperation behavior in different cultural "regimes"? What does such a perspective imply for the coevolution of culture with social and economic systems? How does cultural variation in morality help us understand the recent US Presidential Election? In terms of methodological skills, the course will expose students to regression analysis in Stata, large-scale surveys and cross-cultural experiments. The ultimate goal of the class is to prepare students for academic writing and research. Participants will be required to work with current research papers from economics, psychology, and anthropology.
-Additional Course Attributes:
-Economics 980

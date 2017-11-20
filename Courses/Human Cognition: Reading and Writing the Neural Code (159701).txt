@@ -1,6 +1,0 @@
-Human Cognition: Reading and Writing the Neural Code (159701)
-2018 Spring (2 Credits) Schedule: R 0600 PM - 0729 PM Instructor Permissions: Instructor Enrollment Cap: 12
-In this course, we will explore a new and cutting-edge discipline in neuroscience -- invasive human neurophysiology. Some neurosurgical procedures, such as deep brain stimulation surgery, allow for the unique opportunity to directly access the human brain while patients are awake-and-behaving. Topics will include: place/grid cells, deep brain stimulation, epilepsy, face processing, brain-machine control, and reward processing. Students must complete both terms of this course(parts A and B) within the same academic year in order to receive credit.
-Class Notes: Previously Listed as NEURO 106B
-Requirements: Prerequisite: MCB 80 OR MCB 81 Additional Course Attributes:
-Neurobiology - Undergraduate 101F

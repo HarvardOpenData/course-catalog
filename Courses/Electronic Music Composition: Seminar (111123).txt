@@ -1,9 +1,0 @@
-Electronic Music Composition: Seminar (111123)
-Hans Tutschku
-2018 Spring (4 Credits)
-Instructor Permissions: Instructor
-Schedule: TBD Enrollment Cap: 10
-Electroacoustic Maker Space. This course explores sensors, Arduino, UDOO, 'raspberry pi' and wireless communication as tools to enhance our instruments and methods of making and shaping sounds. Both aspects, programming and building objects with solenoids, stepper motors, etc. will be explored.Enrollment limited to 10 students.
-Course Notes:
-Additional Course Attributes:
-Music 270

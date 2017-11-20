@@ -1,7 +1,0 @@
-Special Topics in Condensed Matter Physics: Quantum Phases of Matter (160744)
-Subir Sachdev
-2018 Spring (4 Credits) Schedule: WF 0300 PM - 0429 PM Instructor Permissions: None Enrollment Cap: n/a
-A modern treatment of quantum many-particle systems. Quasiparticles and Fermi liquid theory. Broken symmetries. Topological order. Quantum critical points without quasiparticles, and their dualities. Non-Fermi liquids. Holography.
-Topic: Quantum Phases of Matter Recommended Prep: Applied Physics 295a or equivalent.
-Additional Course Attributes:
-Physics 28

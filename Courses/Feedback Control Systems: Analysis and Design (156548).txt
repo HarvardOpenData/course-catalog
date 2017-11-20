@@ -1,9 +1,0 @@
-Feedback Control Systems: Analysis and Design (156548)
-Na Li
-2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
-TR 1130 AM - 1259 PM n/a
-This course provides an introduction to feedback and control in physical, biological, engineering, information, financial, and social sciences. The focus is on the basic principles of feedback and its use as a tool for inferring and/or altering the dynamics of systems under uncertainty. Key themes throughout the course will include linear system analysis, state/output feedback, frequency response, reference tracking, PID controller, dynamic programming, and limit of performance. This includes both the practical and theoretical aspects of the topic.
-Course Notes:
-Recommended Prep:
-Additional Course Attributes:
-Engineering Sciences 16

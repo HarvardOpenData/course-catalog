@@ -1,7 +1,0 @@
-Computer Science 191
-Classics of Computer Science (204964)
-Harry Lewis
-2018 Spring (4 Credits) Schedule: MW 0900 AM - 1029 AM Instructor Permissions: None Enrollment Cap: n/a
-Papers every computer scientist should have read, from all areas of the field and dating from its origins to the present.
-Additional Course Attributes:
-Computer Science 20

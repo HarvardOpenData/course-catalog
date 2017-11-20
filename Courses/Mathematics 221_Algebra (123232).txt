@@ -1,6 +1,0 @@
-Mathematics 221
-Algebra (123232)
-Hiro Tanaka
-2017 Fall (4 Credits) Schedule: MWF 1200 PM - 1259 PM Instructor Permissions: None Enrollment Cap: n/a
-A first course in Algebra: Noetherian rings and modules, Hilbert basis theorem, Cayley-Hamilton theorem, integral dependence, Galois theory, Noether normalization, the Nullstellensatz, localization, primary decomposition. Representation theory of finite groups. Introduction to Lie groups and Lie algebras: definitions, the exponential maps, semi-simple Lie algebras, examples.
-Recommended Prep: Mathematics 123. Additional Course Attributes

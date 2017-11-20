@@ -1,6 +1,0 @@
-Computer Science 356
-Computational Complexity, Parallel Computation, Computational Learning, Neural Computation (113027)
-Leslie Valiant
-2017 Fall (4 Credits) Schedule: TBD Instructor Permissions: Instructor Enrollment Cap: n/a
-Additional Course Attributes:
-Computer Science 35

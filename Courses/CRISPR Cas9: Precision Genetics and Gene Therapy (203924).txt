@@ -1,6 +1,0 @@
-CRISPR Cas9: Precision Genetics and Gene Therapy (203924)
-Kevin Eggan
-2018 Spring (4 Credits) Schedule: TBD Instructor Permissions: Instructor Enrollment Cap: n/a
-This year-long hands-on laboratory course hones skills essential for researchers in developmental biology. Students will learn genome editing tools, cell culture techniques, and phenotypic analyses in both cell lines and model systems while addressing unknown questions in the field. SCRB 15 is designed to complement material found in SCRB 10, and is best taken during the sophomore year. Students must complete the second term of this course within the same academic year in order to receive credit for this course.
-Additional Course Attributes:
-Stem Cell & Regenerative Biol 2

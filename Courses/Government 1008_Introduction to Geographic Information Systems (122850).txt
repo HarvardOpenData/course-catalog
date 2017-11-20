@@ -1,8 +1,0 @@
-Government 1008
-Introduction to Geographic Information Systems (122850)
-Jill Kelly
-2017 Fall (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
-TR 1130 AM - 1259 PM 30
-This courses teaches the use of Geographic Information Systems (GIS), a collection of hardware and software tools that allow users to visualize and analyze geographic data in its spatial configuration. Students will learn the theory of geospatial analysis alongside practical methods for acquiring, manipulating, displaying, and analyzing cartographic data.
-Course Notes: No prerequisites. Additional Course Attributes:
-Government 100

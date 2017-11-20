@@ -1,8 +1,0 @@
-Physics 181
-Statistical Mechanics and Thermodynamics (143450)
-Matthew D. Schwartz
-2018 Spring (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
-MWF 1100 AM - 1159 AM n/a
-Introduction to thermal physics and statistical mechanics: basic concepts of thermodynamics (energy, heat, work, temperature, and entropy), classical and quantum ensembles and their origins, and distribution functions. Applications include the specific heat of solids, black body radiation; classical and quantum gases; magnetism; phase transitions; propagation of heat and sound.
-Course Notes: Recommended Prep:
-Additional Course Attributes

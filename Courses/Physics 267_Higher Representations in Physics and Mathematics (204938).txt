@@ -1,8 +1,0 @@
-Physics 267
-Higher Representations in Physics and Mathematics (204938)
-Adrian Ocneanu
-2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
-MWF 1100 AM - 1159 AM n/a
-The representation theory of simple Lie groups is best described in terms of subgroups of quantum SU(2). Higher representation theory is constructed analogously from SU(n). We present higher analogs of matrices, roots, weights, Dynkin diagrams, representations, Young diagrams, etc. The quantum SU(2) representations are used in 1+1-dimensional conformal field theory. Higher representations appear to give insight into 3+1 dimensions.
-Course Notes: Taught by Visiting Professor, Adrian Ocneanu. Additional Course Attributes:
-Physics 268A

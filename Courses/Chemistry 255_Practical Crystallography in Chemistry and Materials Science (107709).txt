@@ -1,9 +1,0 @@
-Chemistry 255
-Practical Crystallography in Chemistry and Materials Science (107709)
-Shao-Liang Zheng
-2018 Spring (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
-TR 0200 PM - 0329 PM 10
-Due to great technical advances, crystal structure analysis plays an increasingly important role in the structure determination of complex solids. This course involves the basic principles of crystallography and covers advanced aspects of practical crystal structure refinement. Topics include crystal symmetry, space groups, geometry of diffraction, structure factors, and structure refinement. Students will gain a working knowledge of x-ray crystallographic techniques, including how to: grow quality crystals, collect data, reduce data, determine a structure, visualize structure, utilize structural databases, publish crystallographic results. Watch Learning Crystal Structure Analysis at Harvard.
-  Course Notes:
-Additional Course Attributes:
-Chemistry 30

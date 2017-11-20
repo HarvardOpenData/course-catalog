@@ -1,9 +1,0 @@
-Engineering Sciences 190
-Introduction to Materials Science and Engineering (143870)
-Xin Li
-2017 Fall (4 Credits) Schedule: Instructor Permissions: None Enrollment Cap:
-MW 1130 AM - 1259 PM n/a
-Introduction to the structure, properties, and applications of materials. Crystal structure and defects. Phase transformations: phase diagrams, diffusion, nucleation and growth. Mechanisms of deformation and fracture. Effect of microstructure on properties. Examples from a variety of engineering applications.
-Recommended Prep: Physical Sciences 12a,b, and Applied Mathematics 21a,b or Mathematics 21a,b.
-Additional Course Attributes:
-Engineering Sciences 20

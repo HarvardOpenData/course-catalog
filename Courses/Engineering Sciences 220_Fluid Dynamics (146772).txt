@@ -1,8 +1,0 @@
-Engineering Sciences 220
-Fluid Dynamics (146772)
-James Rice
-2017 Fall (4 Credits) Schedule: MW 0230 PM - 0359 PM Instructor Permissions: None Enrollment Cap: n/a
-Continuum mechanics; conservation of mass and momentum, energy; stress, kinematics, and constitutive equations; vector and tensor calculus. Dimensional analysis and scaling. Navier-Stokes equations, Reynolds number. Solutions for simple flow states. Low Reynolds number flows; porous media flows; lubrication theory; gravity currents. Inviscid flows, Kelvin circulation theorem, Bernoulli integrals, Vortical flows. Waves in fluids; acoustics, shocks, water waves. Airfoil theory. Boundary layers. Flow instabilities. Mixing, and turbulence in unbounded and bounded flows.
-Recommended Prep: Familiarity with dynamics, vectors, multivariable calculus, and partial differential equations. An undergraduate course in fluid dynamics or other
-Additional Course Attributes:
-Engineering Sciences 22

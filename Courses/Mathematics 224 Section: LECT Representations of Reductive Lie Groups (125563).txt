@@ -1,8 +1,0 @@
-Mathematics 224 Section: LECT Representations of Reductive Lie Groups (125563)
-Dennis Gaitsgory
-2018 Spring (4 Credits)
-Instructor Permissions: None
-Schedule: Enrollment Cap:
-TR 1130 AM - 1259 PM n/a
-Structure theory of reductive Lie groups, unitary representations, Harish Chandra modules, characters, the discrete series, Plancherel theorem.
-Additional Course Attributes

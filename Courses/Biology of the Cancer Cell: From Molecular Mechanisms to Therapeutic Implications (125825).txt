@@ -1,8 +1,0 @@
-Biology of the Cancer Cell: From Molecular Mechanisms to Therapeutic Implications (125825)
-David Frank Nikhil Wagle
-2018 Spring (4 Credits) Schedule: MW 1230 PM - 0159 PM Instructor Permissions: Instructor Enrollment Cap: 36
-This semester long course takes a molecular approach to examine the basis of human cancer. The main concepts that we will cover include: cancer genetics and epigenetics, tumor suppressor genes and oncogenes, signal transduction, DNA damage and repair, angiogenesis, metastasis and invasion, apoptosis, cancer stem cells, and tumor immunology and immunotherapy. Lectures will be delivered by experts in the various fields to provide an integrated perspective on past, current and future approaches in cancer biology research. In addition, students will participate in workshops in which they will delve more deeply into the primary literature of several of these topics.
-Course Notes: Given alternate years with Cell Biology 211.
-Recommended Prep: Advanced biochemistry, molecular genetics, and cell biology.
-Additional Course Attributes:
-Cell Biology 22

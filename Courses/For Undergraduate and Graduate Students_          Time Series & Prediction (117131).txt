@@ -1,9 +1,0 @@
-For Undergraduate and Graduate Students
-          Time Series & Prediction (117131)
-Pierre Jacob
-HARVARD UNIVERSITY
-9/4/2017 0:39 AM
-2017 Fall (4 Credits) Schedule: TR 0100 PM - 0229 PM Instructor Permissions: None Enrollment Cap: n/a
-Introduction to time series models and forecasting. Introduction to classical time series model: autoregressive, moving average, ARIMA models. Some concepts from stochastic processes: martingales, stationarity, Gaussian processes, Brownian motions, ergodic theorems. Some aspects of advanced time series: hidden Markov models, state space models, filtering, smoothing, Kalman filters, sequential Monte Carlo methods.
-Recommended Prep: Additional Course Attributes:
-Statistics 13

@@ -1,8 +1,0 @@
-Physics 151
-Mechanics (111231)
-Arthur Jaffe
-2017 Fall (4 Credits) Schedule: TR 1000 AM - 1129 AM Instructor Permissions: None Enrollment Cap: n/a
-Fundamental ideas of classical mechanics including contact with modern work and applications. Topics include Lagrange's equations, the role of variational principles, symmetry and conservation laws, Hamilton's equations, Hamilton-Jacobi theory and phase space dynamics. Applications to celestial mechanics, quantum mechanics, the theory of small oscillations and classical fields, and nonlinear oscillations, including chaotic systems presented.
-Recommended Prep:
-Additional Course Attributes:
-Physics 15

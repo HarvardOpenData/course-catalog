@@ -1,8 +1,0 @@
-Computer Science 182
-Artificial Intelligence (110661)
-Scott Kuindersma
-2017 Fall (4 Credits) Schedule: TR 0100 PM - 0229 PM Instructor Permissions: None Enrollment Cap: n/a
-Artificial Intelligence (AI) is an exciting field that has enabled a wide range of cutting-edge technology, from driverless cars to grandmaster-beating Go programs. The goal of this course is to introduce the ideas and techniques underlying the design of intelligent computer systems. Topics covered in this course are broadly be divided into 1) planning and search algorithms, 2) probabilistic reasoning and representations, and 3) machine learning (although, as you will see, it is impossible to separate these ideas so neatly). Within each area, the course will also present practical AI algorithms being used in the wild and, in some cases, explore the relationship to state- of-the-art techniques. The class will include lectures connecting the models and algorithms we discuss to applications in robotics, computer vision, and speech processing.
-Course Notes: Formerly Intelligent Machines: Reasoning, Actions, and Plans Recommended Prep: CS 51; Stat 110 (may be taken concurrently).
-Additional Course Attributes:
-Computer Science 18

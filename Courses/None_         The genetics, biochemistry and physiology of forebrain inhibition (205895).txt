@@ -1,7 +1,0 @@
-None
-         The genetics, biochemistry and physiology of forebrain inhibition (205895)
-Gordon Fishell
-2017 Fall (4 Credits) Schedule: TBD Instructor Permissions: None Enrollment Cap: n/a
-Using genetic, physiological and molecular methods to understand how inhibitory interneuron subtypes are generated and subsequently integrated into neural circuits in both normal and pathophysiological conditions.
-Additional Course Attributes:
-Neurobiology - Graduate 363

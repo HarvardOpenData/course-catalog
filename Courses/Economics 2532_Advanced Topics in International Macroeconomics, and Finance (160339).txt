@@ -1,8 +1,0 @@
-Economics 2532
-Advanced Topics in International Macroeconomics, and Finance (160339)
-Matteo Maggiori
-2018 Spring (4 Credits) Schedule: Instructor Permissions: Instructor Enrollment Cap:
-MW 1130 AM - 1259 PM 30
-The course investigates the effect of financial markets, and in particular financial imperfections, on aggregate macroeconomic outcomes and asset prices. It covers applications to domestic and international macroeconomics as well as asset pricing. The course focuses on applied theory and empirical stylized facts. Topics include: borrowing constraints, financial persistence and amplification mechanisms, limits to arbitrage, asset price bubbles, incomplete and missing markets, heterogeneous agents, portfolio balance, liquidity, safe haven assets, roll-over risk, monetary policy and risk-taking, regulation and government intervention.
-Additional Course Attributes:
-Economics 253
