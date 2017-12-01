@@ -45,23 +45,18 @@ class Course(object):
         [Computer Science, 50] but I'm not sure how to name that without
         being confusing. Maybe department and number? idk.
 
+        Actually no, keep the department and number together (makes sorting easier).
+        But let someone extract the individual pieces.
+
         Regex for extracting course number:
 
             [\dA-Z]+$
         """
-        self.number = number.strip()
 
-        """
-        OTHER TODOS
-        Many course numbers have tons of spaces such as
+        # for now, just replace multiple spaces with a single space
+        self.number = re.sub(r" +", " ", number.strip())
 
-            Haitian     BB
 
-        We should replace everything with more than one space, with just one space.
-        """
-
-        # TODO extract the department name, and isolate the number itself
-        # e.g. [Computer Science, 50]
 
     def process_strings(self):
         """
