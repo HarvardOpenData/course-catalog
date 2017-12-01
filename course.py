@@ -1,3 +1,4 @@
+import re
 class Course(object):
 
     # static
@@ -29,14 +30,66 @@ class Course(object):
         # trim whitespace
         trimmed = raw_id_string.strip()
 
-        if len(course_id) > 0:
-            # as long as the course id isn't empty
-            # (sometimes it is)
+        if len(trimmed) > 2:
+            # remove parens
+            without_parens = trimmed[1:-1]
+            self.id = without_parens
 
-            # then remove parentheses
-            course_id_without_parens = course_id[1:-1]
+    def set_course_number(self, number):
+        """
+        e.g. "Computer Science 50"
 
-            current_course.id = course_id_without_parens
+        TODO
+        From the course number (e.g. Computer Science 50), extract the dept
+        (e.g. Computer Science). Ideally we'd split up the course number into
+        [Computer Science, 50] but I'm not sure how to name that without
+        being confusing. Maybe department and number? idk.
+
+        Regex for extracting course number:
+
+            [\dA-Z]+$
+        """
+        self.number = number.strip()
+
+        """
+        OTHER TODOS
+        Many course numbers have tons of spaces such as
+
+            Haitian     BB
+
+        We should replace everything with more than one space, with just one space.
+        """
+
+        # TODO extract the department name, and isolate the number itself
+        # e.g. [Computer Science, 50]
+
+    def process_strings(self):
+        """
+        Once all `strings` (i.e. unstructured description text) are loaded,
+        pull out useful information like the schedule.
+        """
+        # try to extract a course schedule
+        times = []
+        for string in self.strings:
+            matcher = re.compile("[MTWRF]{1,5} \d{4} [AP]M - \d{4} [AP]M")
+            times.append(matcher.findall(string))
+
+        flattened_times = sum(times,[])
+
+        # this array will have max 1 element
+        if len(flattened_times) > 0:
+            self.schedule = flattened_times[0]
+        else:
+            self.schedule = None
+
+        # try to extract a semester
+        for string in self.strings:
+            semester = re.search("20\d\d ((Fall)|(Spring))", string)
+            if semester is not None:
+                # just find the first one then quit
+                self.semester = semester.group()
+                break
+
 
     def __str__(self):
         return "{}".format(self.name)
