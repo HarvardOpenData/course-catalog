@@ -10,6 +10,7 @@ class Course(object):
         'name',
         'instructors',
         'schedule',
+        'level',
         'id',
     ]
 
@@ -56,6 +57,65 @@ class Course(object):
         # for now, just replace multiple spaces with a single space
         self.number = re.sub(r" +", " ", number.strip())
 
+        # get the actual course number (e.g. "50" in "Computer Science 50")
+        # these are formatted strangely; here's a corpus we have to match properly
+        #
+        # "Computer Science 50",
+        # "Anthropology     1010",
+        # "Hausa AA",
+        # "Astronomy 91R",
+        # "Astronomy 202A",
+        # "Aramaic 300 Section: 002",
+        # "Biological Sci in Public Hlth 389 Section: 01",
+        # "Culture & Belief 61 Section: LEC"
+        #
+        # From those we want to extract 50, 1010, AA, 91R, 202A, 300, 389, 61
+        # (all in string format)
+        # hence this regex
+        number_matcher = re.compile("([\dA-Z]+)(?: *Section: [\dA-Z]+)?$")
+        self.actual_number = number_matcher.findall(self.number)[0]
+
+        # from the actual number, guess the level
+        # just letters: language course
+        # 1-89: undergraduate, non-concentrators
+        # 90-99: undergraduate seminars
+        # 100-199: undergraduate, concentrators
+        # 200-299: undergraduate & graduate
+        # 300-399: graduate
+        # 900-999: undergraduate seminars
+        # 1000-1999: undergraduate, concentrators
+        # 2000-2999: undergraduate & graduate
+        # 3000-3999: graduate
+        #
+        # Or, more simply, for "level", just consider
+        # Undergraduate/Undergradute+Graduate/Graduate
+        self.level = None
+
+        # extract digits and letters
+        digit_matcher = re.compile("\d+")
+        digit_matches = digit_matcher.findall(self.actual_number)
+        if len(digit_matches) > 0:
+            # this has digits, like '50' or '91' or '1010'
+            digits = int(digit_matches[0])
+
+            # from this, we can determine level (undergrad, mixed, graduate)
+            if digits < 200:
+                self.level = "Undergraduate"
+            elif digits < 300:
+                self.level = "Undergraduate + Graduate"
+            elif digits < 400:
+                self.level = "Graduate"
+            elif digits < 2000:
+                self.level = "Undergraduate"
+            elif digits < 3000:
+                self.level = "Undergradute + Graduate"
+            else:
+                self.level = "Graduate"
+
+        else:
+            # this is a language course with only letters
+            # languages are all undergraduate!
+            self.level = "Undergraduate"
 
 
     def process_strings(self):
@@ -99,6 +159,7 @@ class Course(object):
 
     def to_dict_for_csv(self):
         # returns a nicer-formatted dict ready for insertion into a csv
+        # so that means any arrays need to be flattened to scalars
         # also everything needs to be converted to ascii
 
         def to_ascii(unicode_str):
@@ -112,5 +173,6 @@ class Course(object):
             number=self.number,
             instructors=to_ascii((" & ".join(self.instructors))),
             semester=self.semester,
-            schedule=self.schedule
+            schedule=self.schedule,
+            level=self.level
         )
