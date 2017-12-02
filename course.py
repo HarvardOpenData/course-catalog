@@ -1,4 +1,8 @@
 import re
+
+import utils
+
+
 class Course(object):
 
     # static
@@ -117,6 +121,48 @@ class Course(object):
             # languages are all undergraduate!
             self.level = "Undergraduate"
 
+    def set_schedule(self, schedule):
+        # take the raw schedule and structure the data better
+        self.schedule = schedule
+
+        schedule_matcher = re.compile("([MTWRF]{1,5}) (\d{4}) ([AP]M) - (\d{4}) ([AP]M)")
+        matches = schedule_matcher.findall(schedule)
+
+        if len(matches) == 1:
+            # we found something!
+            # this contains, in order:
+            # 0. Days
+            # 1. Start time
+            # 2. Start AM or PM
+            # 3. End time
+            # 4. End AM or PM
+            # e.g. ('MW', '1100', 'AM', '1159', 'AM')
+            schedule_chunks = matches[0]
+
+            # convert start and end time to military time
+            # e.g. 0130 PM => 1330
+            self.start_time = utils.time_to_military(schedule_chunks[1], schedule_chunks[2])
+            self.end_time = utils.time_to_military(schedule_chunks[3], schedule_chunks[4])
+
+            # convert the days into better-readable ones
+            # "MW" => ["Monday", "Wednesday]
+            # e.g. "MW"
+            days_abbreviation_string = schedule_chunks[0]
+            # e.g. ["M","W"]
+            days_abbreviation_list = list(days_abbreviation_string)
+
+            # convert "M" to "Monday", etc
+            abbreviation_dict = {
+                "M": "Monday",
+                "T": "Tuesday",
+                "W": "Wednesday",
+                "R": "Thursday",
+                "F": "Friday"
+            }
+            days_full_list = [abbreviation_dict[d] for d in days_abbreviation_list]
+            self.days = days_full_list
+
+
 
     def process_strings(self):
         """
@@ -126,6 +172,7 @@ class Course(object):
         # try to extract a course schedule
         times = []
         for string in self.strings:
+            # TODO factor this out b/c we use it above
             matcher = re.compile("[MTWRF]{1,5} \d{4} [AP]M - \d{4} [AP]M")
             times.append(matcher.findall(string))
 
@@ -133,7 +180,7 @@ class Course(object):
 
         # this array will have max 1 element
         if len(flattened_times) > 0:
-            self.schedule = flattened_times[0]
+            self.set_schedule(flattened_times[0])
         else:
             self.schedule = None
 
