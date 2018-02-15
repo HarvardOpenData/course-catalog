@@ -139,12 +139,13 @@ class Course(object):
             # e.g. ('MW', '1100', 'AM', '1159', 'AM')
             schedule_chunks = matches[0]
 
-            # convert start and end time to military time
-            # e.g. 0130 PM => 1330
+            # Convert string to start and end times in military time
             self.start_time = utils.time_to_military(schedule_chunks[1], schedule_chunks[2])
-            self.start_time = utils.military_to_time(self.start_time)
             self.end_time = utils.time_to_military(schedule_chunks[3], schedule_chunks[4])
-            self.end_time = utils.military_to_time(self.end_time)
+            
+            # Convert from military time to minutes since midnight
+            self.start_time = utils.minutes_since_midnight(self.start_time)
+            self.end_time = utils.minutes_since_midnight(self.end_time)
 
             # convert the days into better-readable ones
             # "MW" => ["Monday", "Wednesday]

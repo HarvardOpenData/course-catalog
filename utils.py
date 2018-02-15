@@ -25,3 +25,20 @@ def time_to_military(time_string, meridian_string):
         cleaned_time += 1200
 
     return cleaned_time
+
+def minutes_since_midnight(military_time):
+    """
+    Converts a military time to a number of minutes since midnight
+    Usage: minutes_since_midnight(1330) = 810
+    """
+    return 60*(military_time//100) + (military_time % 100)
+
+def mround(n,i):
+    """
+    Rounds integer n to the nearest multiple of the integer i
+    Usage: mround(29,5) => 30
+    """
+    if (i - (n % i)) <= (n % i):
+        return (n // i) * (i + 1)
+    else:
+        return (n // i) * i
