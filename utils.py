@@ -1,3 +1,13 @@
+import datetime
+
+def military_to_time(military_time):
+    """
+    Converts a military time (integer) to a datetime.time object
+    """
+    
+    return datetime.time(hour=military_time//100 , minute=military_time % 100)
+
+
 def time_to_military(time_string, meridian_string):
     """
     Usage: `time_to_military('0130','PM') => 1330

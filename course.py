@@ -142,7 +142,9 @@ class Course(object):
             # convert start and end time to military time
             # e.g. 0130 PM => 1330
             self.start_time = utils.time_to_military(schedule_chunks[1], schedule_chunks[2])
+            self.start_time = utils.military_to_time(self.start_time)
             self.end_time = utils.time_to_military(schedule_chunks[3], schedule_chunks[4])
+            self.end_time = utils.military_to_time(self.end_time)
 
             # convert the days into better-readable ones
             # "MW" => ["Monday", "Wednesday]
